@@ -36,10 +36,10 @@ People to follow
 
 Jump right in Guide:
 --------------------
-1. [Follow scaffold.eth Tut]	(https://github.com/scaffold-eth/scaffold-eth)
-2. [install buidler?]		(https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
-3. [yarn run watch]		(https://www.youtube.com/watch?v=ShJZf5lsXiM)
-4. [Tests and console.log]	(https://www.youtube.com/watch?v=5V5vDJhafwk)
+1. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
+2. [install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
+3. [yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
+4. [Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
 
 
 Austin Griffith
@@ -58,18 +58,18 @@ Austin Griffith
 
 Moralis
 -------
-1. [Moralis Angular Tutorial]		(https://www.youtube.com/watch?v=3WU8ple4zsM)
-2. [Serverless DApps]			(https://www.youtube.com/watch?v=rd0TTLjQLy4)
-3. [Moralis Hard Hat App Ex]		(https://www.youtube.com/watch?v=5V5vDJhafwk)
-4. [Moralis Push Notifications]	(https://www.youtube.com/watch?v=PEILxU53-Zs)
-5. [Data persistence - IPFS]		(https://www.youtube.com/watch?v=jRjFn__kVJM)
-6. [Moralis working with Queries] 	(https://www.youtube.com/watch?v=l0NvTvNxpQo)
-7. [Moralis Hard Hat Config Docs]	(https://docs.moralis.io/moralis-server/web3/setting-up-ganache)
-8. [Moralis Hard Hat Config Core]	(https://www.youtube.com/watch?v=LdNb3uW6Vl4)
-9. [Moralis Hard Hat Node Config]	(https://www.youtube.com/watch?v=FTDEX3S1eqU)
-10. [First Elrond app in 5 mins]	(https://www.youtube.com/watch?v=IdkgvlK3rb8)
-11. [Moralis Elrond Login]		(https://www.youtube.com/watch?v=0dLNIbx4GbY)
-12. [Build DAO]				(https://moralis.io/how-to-create-a-dao-in-10-minutes/)
+1. [Moralis Angular Tutorial](https://www.youtube.com/watch?v=3WU8ple4zsM)
+2. [Serverless DApps](https://www.youtube.com/watch?v=rd0TTLjQLy4)
+3. [Moralis Hard Hat App Ex](https://www.youtube.com/watch?v=5V5vDJhafwk)
+4. [Moralis Push Notifications](https://www.youtube.com/watch?v=PEILxU53-Zs)
+5. [Data persistence - IPFS](https://www.youtube.com/watch?v=jRjFn__kVJM)
+6. [Moralis working with Queries](https://www.youtube.com/watch?v=l0NvTvNxpQo)
+7. [Moralis Hard Hat Config Docs](https://docs.moralis.io/moralis-server/web3/setting-up-ganache)
+8. [Moralis Hard Hat Config Core](https://www.youtube.com/watch?v=LdNb3uW6Vl4)
+9. [Moralis Hard Hat Node Config](https://www.youtube.com/watch?v=FTDEX3S1eqU)
+10. [First Elrond app in 5 mins](https://www.youtube.com/watch?v=IdkgvlK3rb8)
+11. [Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
+12. [Build DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 
 
 Condensed

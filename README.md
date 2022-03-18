@@ -1,5 +1,6 @@
-# A List of Links to Get started in Blockchain Quickly.
--------------------------------------------------------
+A List of Links to Get started in Blockchain Quickly.
+-----------------------------------------------------
+
 
 Back to basics for Beginners
 ----------------------------

@@ -90,7 +90,6 @@ How tos
 - (https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
 - (https://moralis.io/how-to-build-ethereum-dapps-in-angular/)
 - (https://medium.com/blockchain-developer/learn-how-to-create-your-own-dapp-with-angular-part-i-688f24e0ad9e)
-- (https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 - (https://blog.oliverjumpertz.dev/how-to-set-up-a-solidity-project-and-create-your-first-smart-contract)
 - (https://ethereum-blockchain-developer.com/003-first-smart-contract/01-setup-remix/)
 - (https://medium.com/solidify/lesson-1-your-first-solidity-smart-contract-1ba7e641f9a3)

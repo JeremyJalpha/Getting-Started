@@ -1,6 +1,10 @@
 A List of Links to Get started in Blockchain Quickly.
 -----------------------------------------------------
 
+Disclaimer
+----------
+The below links are for informative and learning purposes only. This list is not financial advice please do your own research.
+
 Back to basics for Beginners
 ----------------------------
 1. [Video - But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)

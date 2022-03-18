@@ -147,52 +147,35 @@ Public Good Projects
 SCAM ALERTS
 ------------
 - https://www.amfeix.com
+- https://cryptopotato.com/you-can-now-use-crypto-to-purchase-nasdaq-tokenized-stocks/
 
 Watch this space
 ----------------
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
 - https://github.com/dexlab-io/dexpay-pos
-- https://www.synthetix.io
 - https://wrapeth.com/
 - https://www.poap.xyz/
 - https://showcase.ethglobal.co/nfthack/boundless
 - https://www.appharvest.com/2.0/
-- https://www.ovr.ai/
-- https://iex.ec/
-- https://ozow.me/
-- https://earthrewards.net/
 - https://botoapp.io/
 - https://www.huddln.io/
 - https://www.fractio.xyz/
-- https://www.abra.com/
-- https://fiat2cryp.to/
-- https://eidoo.io/
-- https://gourl.io/
-- https://dex.ag/
-- https://aragon.org/
 - https://adapulse.io/erc20-converter-brings-ethereum-assets-to-the-cardano-ecosystem/
-- https://www.tokensets.com/
-- https://mirror.finance/
-- https://defipie.com/
+- https://aragon.org/
 - https://anj.aragon.org/#learn
 - https://proofofimpact.com/
 - https://openearth.org/
 - https://www.humanprotocol.org/
 - https://hypersign.id/
 - https://ether.cards/
-- https://blog.ether.cards/building-dynamic-nfts-on-ether-cards-using-chainlink/
-- https://github.com/ethercards
 - https://razor.network/
 - https://burnerwallet.co/
 - https://ramp.network/
 - https://www.sendwyre.com/
 - https://onramper.com/
-- https://www.circle.com/en/
-- https://paxful.com/
 - https://trustwallet.com/
 - https://rarible.com/
 - https://nifty.ink/create
-
 - https://www.hackerrank.com/
 - https://www.hackerearth.com/
 - https://www.topcoder.com/
@@ -203,22 +186,15 @@ Reading list
 - https://news.bitcoin.com/iexec-launches-oracle-factory-allowing-anyone-to-create-custom-oracles-in-minutes/
 - https://news.bitcoin.com/ovr-land-map-the-biggest-detailed-3d-map-of-the-real-world-with-nfts/
 
-- https://forum.cardano.org/t/one-identity-to-rule-them-all-managing-digital-identities-using-blockchain/40289
-
-- https://cryptopotato.com/you-can-now-use-crypto-to-purchase-nasdaq-tokenized-stocks/
 - https://defiprime.com/defi-yield-farming
 - https://blockgeeks.com/guides/what-is-hashing/
-- https://medium.com/bankless-dao/announcing-bankless-dao-133220f5efd8
 - https://medium.com/coinmonks/using-nfts-ethereum-and-aws-to-re-define-the-receivables-market-3c3a3d7e74f
-- https://www.microsoft.com/en-ww/security/business/identity-access-management/decentralized-identity-blockchain
 - https://blog.goodaudience.com/burner-wallets-the-average-users-solution-to-purchasing-coffee-or-beer-with-crypto-c5863123ceac
+- 
 - https://medium.com/mattr-global/the-state-of-identity-on-the-web-cffc392bc7ea
+- https://www.microsoft.com/en-ww/security/business/identity-access-management/decentralized-identity-blockchain
 - https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-the-network/ba-p/1441552
-- https://www.ekathimerini.com/economy/1157232/cellphone-number-for-authentication/
-
-
-Older / irrelevant
-------------------
+- https://forum.cardano.org/t/one-identity-to-rule-them-all-managing-digital-identities-using-blockchain/40289
 
 Real Estate
 -----------
@@ -231,9 +207,3 @@ Real Estate
 - https://alphapoint.com/navigating-the-3-phases-of-real-estate-tokenization/
 - https://realt.co/introducing-realt-tokenizing-real-estate-on-ethereum/
 - http://blog.realestate.cornell.edu/2019/04/30/tokenizing-real-estate-creating-new-investing-and-financing-channels-through-blockchain/
-
-Airtime Scratch Cards
----------------------
-- http://proscripto.co.za/
-- https://www.bitrefill.com/
-- https://www.ecwid.com/store/smnenterprise/Airtime-Vending-machines-p120132862

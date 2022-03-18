@@ -26,10 +26,8 @@ Tech Stacks to watch
 Scaffold.eth & Hard Hat
 React.js, Angular
 Solidity & Polygon & Aragon
---
 Scala + TypeScript
 Node.js
---
 Kotlin + Swift
 
 
@@ -46,8 +44,8 @@ Jump right in Guide:
 4)(Tests and console.log)		https://www.youtube.com/watch?v=5V5vDJhafwk
 5)(Build DApp)				https://moralis.io/how-to-create-a-dao-in-10-minutes/
 6)(Connect to Elrond)			https://www.youtube.com/watch?v=0dLNIbx4GbY
-						https://medium.com/hypersign/privacy-preserving-social-login-with-hypersign-45540b41a735
-						https://www.youtube.com/watch?v=IdkgvlK3rb8
+					https://medium.com/hypersign/privacy-preserving-social-login-with-hypersign-45540b41a735
+					https://www.youtube.com/watch?v=IdkgvlK3rb8
 
 https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
 
@@ -66,22 +64,21 @@ https://github.com/austintgriffith/scaffold-eth/blob/backlog-market/packages/bui
 (Custom DAO)					https://moralis.io/how-to-create-a-dao-in-10-minutes/
 (Moralis Hard Hat App Ex)			https://www.youtube.com/watch?v=5V5vDJhafwk
 (Moralis Elrond Login)				https://www.youtube.com/watch?v=0dLNIbx4GbY
-(scaffold-eth 1)					https://github.com/austintgriffith/scaffold-eth
-(scaffold-eth 2)					https://www.youtube.com/watch?v=ShJZf5lsXiM
-(scaffold-eth 3)					https://www.youtube.com/watch?v=eUAc2FtC0_s
+(scaffold-eth 1)				https://github.com/austintgriffith/scaffold-eth
+(scaffold-eth 2)				https://www.youtube.com/watch?v=ShJZf5lsXiM
+(scaffold-eth 3)				https://www.youtube.com/watch?v=eUAc2FtC0_s
 -
 (Moralis Angular Tutorial)			https://www.youtube.com/watch?v=3WU8ple4zsM
 -
 -
-(Moralis Hard Hat Config Docs)		https://docs.moralis.io/moralis-server/web3/setting-up-ganache
-(Moralis Hard Hat Config Core)		https://www.youtube.com/watch?v=LdNb3uW6Vl4
-(Moralis Hard Hat Node Config)		https://www.youtube.com/watch?v=FTDEX3S1eqU
-(Moralis working with Queries)		https://www.youtube.com/watch?v=l0NvTvNxpQo
+(Moralis Hard Hat Config Docs)			https://docs.moralis.io/moralis-server/web3/setting-up-ganache
+(Moralis Hard Hat Config Core)			https://www.youtube.com/watch?v=LdNb3uW6Vl4
+(Moralis Hard Hat Node Config)			https://www.youtube.com/watch?v=FTDEX3S1eqU
+(Moralis working with Queries)			https://www.youtube.com/watch?v=l0NvTvNxpQo
 
 
-=========
 Condensed
-=========
+---------
 https://www.udemy.com/course/crypto-masterclass-class-one-ethereum-hands-on
 https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
 https://www.udemy.com/course/ethereum-developer
@@ -93,7 +90,6 @@ https://www.youtube.com/watch?v=MpWeg6Fg0t8
 https://www.youtube.com/watch?v=12YCK2wCB3g
 
 
--------
 How tos
 -------
 https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04
@@ -108,11 +104,11 @@ https://thealexfreeman.medium.com/how-to-create-a-dao-using-aragon-free-87989b7d
 https://help.aragon.org/article/94-creating-an-new-dao-from-template
 https://github.com/aragon/your-first-aragon-app/pull/2/files
 https://medium.com/dfinity/building-a-front-end-dapp-on-the-internet-computer-55985f0a595b
---
+
 https://www.youtube.com/watch?v=6Mry6oAQVXU
 https://www.youtube.com/watch?v=gU64BZW5lQQ
 https://ethereum.org/en/developers/docs/dapps/
--
+
 https://hummingbot.io/
 https://extropy-io.medium.com/coding-a-defi-arbitrage-bot-45e550d85089
 https://social.msdn.microsoft.com/Forums/en-US/4bf3e42b-4701-488f-9ec4-92d7caa47d87/programming-blockchain-smart-contracts-with-c-on-the-neo-blockchain?forum=csharpgeneral
@@ -133,14 +129,12 @@ https://github.com/AztecProtocol/loan-dapp-starter-kit
 https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/
 
 
------------------
 Hackathon / Demos
 -----------------
 https://verynifty.medium.com/verynifty-4945b9f3c27f
 https://showcase.ethglobal.co/nfthack/nifty-dm
 
 
---------------
 Burner Wallets
 --------------
 https://dmihal.medium.com/what-are-burner-wallet-plugins-5c497e4bd279
@@ -150,7 +144,6 @@ https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833
 https://www.xdaichain.com/for-users/wallets/burner-wallet/burner-wallet-functions
 
 
--------
 Stratis
 -------
 https://www.youtube.com/watch?v=2F7smOsNvPs
@@ -159,34 +152,28 @@ https://stratisplatform.com/2018/05/16/stratis-smart-contracts-in-csharp/
 https://smartcontractsdocs.stratisplatform.com/SmartContracts/auction-smart-contract.html
 
 
----------
 Nifty.ink
 ---------
 https://www.xdaichain.com/about-xdai/project-spotlights/nifty.ink
 https://www.xdaichain.com/for-developers/developer-resources/wrapped-xdai
 
 
----------------------
 Public Good Projects
 ---------------------
 https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/
 https://ethatl.com/public-good-panel/
 
 
-------------
 SCAM ALTERTS
 ------------
 https://www.amfeix.com
 
 
-----------------
 Watch this space
 ----------------
 (Ethereum Push Notification Service)
 https://whitepaper.epns.io/protocol-specs-section/specifications
-*****
 https://github.com/dexlab-io/dexpay-pos
-*****
 https://www.synthetix.io
 https://wrapeth.com/
 https://www.poap.xyz/
@@ -227,21 +214,20 @@ https://paxful.com/
 https://trustwallet.com/
 https://rarible.com/
 https://nifty.ink/create
-----
+
 https://www.hackerrank.com/
 https://www.hackerearth.com/
 https://www.topcoder.com/
 
 
-------------
 Reading list
 ------------
 https://news.bitcoin.com/carbon-credit-token-mco2-is-now-listed-on-gemini-learn-about-the-green-asset-set-to-save-the-planet/
 https://news.bitcoin.com/iexec-launches-oracle-factory-allowing-anyone-to-create-custom-oracles-in-minutes/
 https://news.bitcoin.com/ovr-land-map-the-biggest-detailed-3d-map-of-the-real-world-with-nfts/
--
+
 https://forum.cardano.org/t/one-identity-to-rule-them-all-managing-digital-identities-using-blockchain/40289
--
+
 https://cryptopotato.com/you-can-now-use-crypto-to-purchase-nasdaq-tokenized-stocks/
 https://defiprime.com/defi-yield-farming
 https://blockgeeks.com/guides/what-is-hashing/
@@ -254,12 +240,10 @@ https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-th
 https://www.ekathimerini.com/economy/1157232/cellphone-number-for-authentication/
 
 
-==================
 Older / irrelevant
-==================
+------------------
 
 
------------
 Real Estate
 -----------
 https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b
@@ -273,7 +257,6 @@ https://realt.co/introducing-realt-tokenizing-real-estate-on-ethereum/
 http://blog.realestate.cornell.edu/2019/04/30/tokenizing-real-estate-creating-new-investing-and-financing-channels-through-blockchain/
 
 
----------------------
 Airtime Scratch Cards
 ---------------------
 http://proscripto.co.za/

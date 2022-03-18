@@ -189,7 +189,7 @@ Reading list
 - https://blockgeeks.com/guides/what-is-hashing/
 - https://medium.com/coinmonks/using-nfts-ethereum-and-aws-to-re-define-the-receivables-market-3c3a3d7e74f
 - https://blog.goodaudience.com/burner-wallets-the-average-users-solution-to-purchasing-coffee-or-beer-with-crypto-c5863123ceac
-- 
+
 - https://medium.com/mattr-global/the-state-of-identity-on-the-web-cffc392bc7ea
 - https://www.microsoft.com/en-ww/security/business/identity-access-management/decentralized-identity-blockchain
 - https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-the-network/ba-p/1441552

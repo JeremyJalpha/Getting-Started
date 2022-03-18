@@ -2,6 +2,7 @@
 A List of Links to Get started in Blockchain Quickly.
 -----------------------------------------------------
 
+
 Back to basics for Beginners
 ----------------------------
 https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=49s
@@ -67,10 +68,9 @@ https://github.com/austintgriffith/scaffold-eth/blob/backlog-market/packages/bui
 (scaffold-eth 1)				https://github.com/austintgriffith/scaffold-eth
 (scaffold-eth 2)				https://www.youtube.com/watch?v=ShJZf5lsXiM
 (scaffold-eth 3)				https://www.youtube.com/watch?v=eUAc2FtC0_s
--
+
 (Moralis Angular Tutorial)			https://www.youtube.com/watch?v=3WU8ple4zsM
--
--
+
 (Moralis Hard Hat Config Docs)			https://docs.moralis.io/moralis-server/web3/setting-up-ganache
 (Moralis Hard Hat Config Core)			https://www.youtube.com/watch?v=LdNb3uW6Vl4
 (Moralis Hard Hat Node Config)			https://www.youtube.com/watch?v=FTDEX3S1eqU

@@ -144,7 +144,7 @@ Public Good Projects
 - [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
 - [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
 
-SCAM ALTERTS
+SCAM ALERTS
 ------------
 - https://www.amfeix.com
 

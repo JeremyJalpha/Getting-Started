@@ -30,7 +30,7 @@ Tech Stacks to watch
 
 People to follow
 ----------------
-@austingriffith, @woonomic, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
+@austingriffith, @woonomic, @coinbureau @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
 
 Jump right in Guide:
 --------------------
@@ -43,13 +43,12 @@ Austin Griffith
 ---------------
 1. [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 2. [Eth.build](https://eth.build/)
-3. [Scaffold.Eth](https://github.com/austintgriffith/scaffold-eth)
-4. [Scaffold.Eth - Tutorial](https://github.com/austintgriffith/scaffold-eth#-scaffold-eth)
-5. [Video - Start building on Ethereum today with 🏗 scaffold-eth](https://www.youtube.com/watch?v=ShJZf5lsXiM)
-6. [Video - 🏗 scaffold-eth speedrun](https://www.youtube.com/watch?v=eUAc2FtC0_s)
-7. [Scaffold.Eth Simple NFT Example](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)
-8. [Scaffold.Eth - Buyer Mints](https://github.com/austintgriffith/scaffold-eth/tree/buyer-mints-nft)
-9. [Signator.io](https://twitter.com/austingriffith/status/1465734308782477315)
+3. [Scaffold.Eth - Tutorial](https://github.com/austintgriffith/scaffold-eth)
+4. [Video - Start building on Ethereum today with 🏗 scaffold-eth](https://www.youtube.com/watch?v=ShJZf5lsXiM)
+5. [Video - 🏗 scaffold-eth speedrun](https://www.youtube.com/watch?v=eUAc2FtC0_s)
+6. [Scaffold.Eth Simple NFT Example](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)
+7. [Scaffold.Eth - Buyer Mints](https://github.com/austintgriffith/scaffold-eth/tree/buyer-mints-nft)
+8. [Signator.io](https://twitter.com/austingriffith/status/1465734308782477315)
 
 Moralis
 -------

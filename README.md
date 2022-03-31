@@ -25,12 +25,12 @@ Back to basics for Beginners
 
 Tech Stacks to watch
 --------------------
-1. Scaffold.eth & Hard Hat
-2. React.js, Angular
-3. Solidity & Polygon & Aragon
-4. Scala + TypeScript
-5. Node.js
-6. Kotlin + Swift
+1. ReactNative + Expo + Redux
+2. Scaffold.eth & Hard Hat
+3. Solidity, Polygon, Aragon, Elrond
+4. Angular, Scala + TypeScript
+5. Kotlin, Swift, Rust
+6. Node.js
 
 People to follow
 ----------------

@@ -28,7 +28,7 @@ Tech Stacks to watch
 1. ReactNative + Expo + Redux
 2. Scaffold.eth & Hard Hat
 3. Solidity, Polygon, Aragon, Elrond
-4. Angular, Scala + TypeScript
+4. Angular + TypeScript, Scala
 5. Kotlin, Swift, Rust
 6. Node.js
 

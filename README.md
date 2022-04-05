@@ -68,6 +68,13 @@ Moralis
 10. [Video - Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
 11. [Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 
+Getting started with Angular and Ionic
+--------------------------------------
+1. [Video - How to Build a Native App from Angular Projects with Capacitor](https://www.youtube.com/watch?v=V2Wn2JROUEo)
+2. [Video - How to Create an Ionic PWA with Web Push Notifications](https://www.youtube.com/watch?v=4B5JK2BjsCk)
+3. [Video - The Push Notifications Guide for Ionic & Capacitor](https://www.youtube.com/watch?v=YUr8pw0nO7Y)
+4. [Video - push notification in ionic capacitor app](https://www.youtube.com/watch?v=Z9_laCsphR4)
+
 Udemy Courses
 -------------
 1. [Crypto masterclass class one ethereum hands on](https://www.udemy.com/course/crypto-masterclass-class-one-ethereum-hands-on)

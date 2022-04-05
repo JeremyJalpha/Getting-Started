@@ -74,6 +74,7 @@ Getting started with Angular and Ionic
 2. [Video - How to Create an Ionic PWA with Web Push Notifications](https://www.youtube.com/watch?v=4B5JK2BjsCk)
 3. [Video - The Push Notifications Guide for Ionic & Capacitor](https://www.youtube.com/watch?v=YUr8pw0nO7Y)
 4. [Video - push notification in ionic capacitor app](https://www.youtube.com/watch?v=Z9_laCsphR4)
+5. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
 
 Udemy Courses
 -------------

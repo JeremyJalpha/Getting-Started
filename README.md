@@ -38,14 +38,14 @@ Tech Stacks to watch
 
 Other Amazing tools
 -------------------
-1. [](https://ionicblocks.com)
-2. [](https://bootstrapstudio.io/)
-3. [](https://shuffle.dev/#how-it-works)
-4. [](https://material.angular.io/)
-5. [](https://github.com/elementor/elementor)
-6. [](https://pages.tatum.io)
-7. [](https://codesandbox.io/s/stencil-web-component-9gkne)
-8. [](https://github.com/MadnessLabs/StencilPress)
+1. [ionicblocks.com](https://ionicblocks.com)
+2. [bootstrapstudio.io](https://bootstrapstudio.io/)
+3. [shuffle.dev](https://shuffle.dev/)
+4. [material.angular.io](https://material.angular.io/)
+5. [elementor](https://github.com/elementor/elementor)
+6. [pages.tatum.io](https://pages.tatum.io)
+7. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
+8. [github.com/MadnessLabs/StencilPress](https://github.com/MadnessLabs/StencilPress)
 
 People to follow
 ----------------

@@ -36,6 +36,17 @@ Tech Stacks to watch
 5. Kotlin, Swift, Rust
 6. Node.js
 
+Other Amazing tools
+-------------------
+1. [](https://ionicblocks.com)
+2. [](https://bootstrapstudio.io/)
+3. [](https://shuffle.dev/#how-it-works)
+4. [](https://material.angular.io/)
+5. [](https://github.com/elementor/elementor)
+6. [](https://pages.tatum.io)
+7. [](https://codesandbox.io/s/stencil-web-component-9gkne)
+8. [](https://github.com/MadnessLabs/StencilPress)
+
 People to follow
 ----------------
 @austingriffith, @woonomic, @coinbureau @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions

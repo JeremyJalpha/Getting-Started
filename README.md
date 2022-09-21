@@ -5,6 +5,10 @@ Disclaimer
 ----------
 The below links are for informative and learning purposes only. This list is not financial advice please do your own research.
 
+Blockchain Legal precedents
+---------------------------
+https://www.nortonrosefulbright.com/en/inside-fintech/blog/distributed-ledger-technologies-blockchain-and-smart-contracts
+
 Back to basics for Beginners
 ----------------------------
 1. [Video - But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -76,8 +80,8 @@ Getting started with Angular and Ionic
 4. [Video - push notification in ionic capacitor app](https://www.youtube.com/watch?v=Z9_laCsphR4)
 5. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
 
-Udemy Courses
--------------
+Courses
+--------
 1. [Crypto masterclass class one ethereum hands on](https://www.udemy.com/course/crypto-masterclass-class-one-ethereum-hands-on)
 2. [Ethereum and Solidity the complete developers guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
 3. [Ethereum developer](https://www.udemy.com/course/ethereum-developer)
@@ -88,6 +92,14 @@ Udemy Courses
 7. [Pomp's Crypto Course](https://www.pompscryptocourse.com/)
 8. [Video - Functional smart contracts on Cardano](https://www.youtube.com/watch?v=MpWeg6Fg0t8)
 9. [Video - How to Code & Deploy Ethereum Smart Contract using Solidity & Remix IDE | Smart Contracts Tutorial](https://www.youtube.com/watch?v=12YCK2wCB3g)
+
+10. [Blockchain beyond the basics](https://www.linkedin.com/learning/blockchain-beyond-the-basics-14660547)
+11. [Foundations of the fourth industrial revolution](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0)
+
+12. [AI in Fintech essential training](https://www.linkedin.com/learning/ai-in-fintech-essential-training)
+13. [Why focus on emerging technologies](https://www.linkedin.com/learning/digital-technologies-case-studies-ai-iot-robotics-blockchain/why-focus-on-emerging-technologies)
+
+14. [Brilliant.org](https://brilliant.org)
 
 How tos
 -------

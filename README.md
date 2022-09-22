@@ -1,15 +1,15 @@
-A List of Links to Get started in Blockchain Quickly.
+A List of links to get started in Blockchain quickly.
 -----------------------------------------------------
 
 Disclaimer
 ----------
 The below links are for informative and learning purposes only. This list is not financial advice please do your own research.
 
-Blockchain Legal precedents
+Blockchain legal precedents
 ---------------------------
 https://www.nortonrosefulbright.com/en/inside-fintech/blog/distributed-ledger-technologies-blockchain-and-smart-contracts
 
-Back to basics for Beginners
+Back to basics for beginners
 ----------------------------
 1. [Video - But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 2. [Video - How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs)
@@ -27,7 +27,7 @@ Back to basics for Beginners
 13. [Bitcoin.stackexchange.com - Why is mining necessary for the bitcoin network system](https://bitcoin.stackexchange.com/questions/10343/why-is-mining-necessary-for-the-bitcoin-network-system)
 14. [Reddit.com - Why is there a need for fee pressure if miners](https://www.reddit.com/r/Bitcoin/comments/3f6rvp/why_is_there_a_need_for_fee_pressure_if_miners/)
 
-Tech Stacks to watch
+Tech stacks to watch
 --------------------
 1. Solidity, Polygon, Aragon, Elrond
 2. Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
@@ -36,7 +36,7 @@ Tech Stacks to watch
 5. Kotlin, Swift, Rust
 6. Node.js
 
-Other Amazing tools
+Other amazing tools
 -------------------
 1. [ionicblocks.com](https://ionicblocks.com)
 2. [bootstrapstudio.io](https://bootstrapstudio.io/)
@@ -51,7 +51,7 @@ People to follow
 ----------------
 @austingriffith, @woonomic, @coinbureau @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
 
-Jump right in Guide:
+Jump right in guide:
 --------------------
 1. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
 2. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
@@ -154,7 +154,7 @@ Hackathon / Demos
 - [verynifty.medium.com - Verynifty](https://verynifty.medium.com/verynifty-4945b9f3c27f)
 - [showcase.ethglobal.co - Nifty DM](https://showcase.ethglobal.co/nfthack/nifty-dm)
 
-Burner Wallets
+Burner wallets
 --------------
 - [dmihal.medium.com - What are burner wallet plugins](https://dmihal.medium.com/what-are-burner-wallet-plugins-5c497e4bd279)
 - [dmihal.medium.com - Introducing the burner wallet 2](https://dmihal.medium.com/introducing-the-burner-wallet-2-542604dc8d28)
@@ -173,7 +173,7 @@ Nifty.ink
 - [Project spotlights](https://www.xdaichain.com/about-xdai/project-spotlights/nifty.ink)
 - [Wrapped xDai](https://www.xdaichain.com/for-developers/developer-resources/wrapped-xdai)
 
-Public Good Projects
+Public good projects
 ---------------------
 - [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
 - [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
@@ -230,7 +230,7 @@ Reading list
 - https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-the-network/ba-p/1441552
 - https://forum.cardano.org/t/one-identity-to-rule-them-all-managing-digital-identities-using-blockchain/40289
 
-Real Estate
+Real estate
 -----------
 - https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b
 - https://www.solidblock.co/tokenize-real-estate.html

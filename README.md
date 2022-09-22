@@ -29,9 +29,9 @@ Back to basics for Beginners
 
 Tech Stacks to watch
 --------------------
-1. Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
-2. Scaffold.eth & Hard Hat
-3. Solidity, Polygon, Aragon, Elrond
+1. Solidity, Polygon, Aragon, Elrond
+2. Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
+3. Scaffold.eth & Hard Hat
 4. Angular + TypeScript, Scala
 5. Kotlin, Swift, Rust
 6. Node.js

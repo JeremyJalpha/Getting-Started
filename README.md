@@ -49,7 +49,7 @@ Other amazing tools
 
 People to follow
 ----------------
-@austingriffith, @woonomic, @coinbureau @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
+@austingriffith, @woonomic, @coinbureau, @maxedapps, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
 
 Jump right in guide:
 --------------------
@@ -111,6 +111,8 @@ Courses
 13. [Why focus on emerging technologies](https://www.linkedin.com/learning/digital-technologies-case-studies-ai-iot-robotics-blockchain/why-focus-on-emerging-technologies)
 
 14. [Brilliant.org](https://brilliant.org)
+
+15. [Academind.com - Programming courses for everyone](https://academind.com/)
 
 How tos
 -------

@@ -174,7 +174,10 @@ Stratis
 Nifty.ink
 ---------
 - [Project spotlights](https://www.xdaichain.com/about-xdai/project-spotlights/nifty.ink)
-- [Wrapped xDai](https://www.xdaichain.com/for-developers/developer-resources/wrapped-xdai)
+
+Gnosis - xDai
+-------------
+- [xDai](https://docs.gnosischain.com/about/tokens/xdai)
 
 Public good projects
 ---------------------

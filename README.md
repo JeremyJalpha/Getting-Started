@@ -113,6 +113,7 @@ Courses
 14. [Brilliant.org](https://brilliant.org)
 
 15. [Academind.com - Programming courses for everyone](https://academind.com/)
+16. [freecodecamp.org - Learn to code — for free](https://www.freecodecamp.org/)
 
 How tos
 -------

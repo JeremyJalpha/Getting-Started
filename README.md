@@ -30,10 +30,10 @@ Back to basics for beginners
 Tech stacks to watch
 --------------------
 1. Solidity, Polygon, Aragon, Elrond
-2. Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
+2. Kotlin **_OR_** Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
 3. Scaffold.eth & Hard Hat
 4. Angular + TypeScript, Scala
-5. Kotlin, Swift, Rust
+5. Rust
 6. Node.js
 
 Other amazing tools
@@ -82,6 +82,18 @@ Moralis
 9. [Video - First Elrond app in 5 mins](https://www.youtube.com/watch?v=IdkgvlK3rb8)
 10. [Video - Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
 11. [Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
+
+Kotlin
+------
+1.[Multiplatform full stack app](https://kotlinlang.org/docs/multiplatform-full-stack-app.html)
+2.[Creating a location tracking app using Firebase and Google maps in Android](https://www.section.io/engineering-education/creating-a-location-tracking-app-using-firebase-and-google-maps-in-android/)
+3.[Geo location tracking in android with kotlin](https://medium.com/@chris_42047/geo-location-tracking-in-android-with-kotlin-f4ec57743956)
+4.[Geo location Kotlin example](https://gist.github.com/vishnuharidas/33c95afb49ebe9c2dd3c65b5b13d534d)
+5.[Kotlin Docs - Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
+6.[Kotlin Docs - Create-first multiplatform mobile app](https://kotlinlang.org/docs/multiplatform-mobile-create-first-app.html)
+7.[Kotlin Docs - Kotlin for server side](https://kotlinlang.org/docs/server-overview.html)
+8.[Kotlin Docs - Set up a Kotlin/JS project](https://kotlinlang.org/docs/js-project-setup.html)
+9.[Udemy Course - Web development with Kotlin](https://www.udemy.com/course/web-development-with-kotlin/learn/lecture/17400848?start=0#content)
 
 Getting started with Angular and Ionic
 --------------------------------------

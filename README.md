@@ -85,15 +85,15 @@ Moralis
 
 Kotlin
 ------
-1.[Multiplatform full stack app](https://kotlinlang.org/docs/multiplatform-full-stack-app.html)
-2.[Creating a location tracking app using Firebase and Google maps in Android](https://www.section.io/engineering-education/creating-a-location-tracking-app-using-firebase-and-google-maps-in-android/)
-3.[Geo location tracking in android with kotlin](https://medium.com/@chris_42047/geo-location-tracking-in-android-with-kotlin-f4ec57743956)
-4.[Geo location Kotlin example](https://gist.github.com/vishnuharidas/33c95afb49ebe9c2dd3c65b5b13d534d)
-5.[Kotlin Docs - Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
-6.[Kotlin Docs - Create-first multiplatform mobile app](https://kotlinlang.org/docs/multiplatform-mobile-create-first-app.html)
-7.[Kotlin Docs - Kotlin for server side](https://kotlinlang.org/docs/server-overview.html)
-8.[Kotlin Docs - Set up a Kotlin/JS project](https://kotlinlang.org/docs/js-project-setup.html)
-9.[Udemy Course - Web development with Kotlin](https://www.udemy.com/course/web-development-with-kotlin/learn/lecture/17400848?start=0#content)
+1. [Multiplatform full stack app](https://kotlinlang.org/docs/multiplatform-full-stack-app.html)
+2. [Creating a location tracking app using Firebase and Google maps in Android](https://www.section.io/engineering-education/creating-a-location-tracking-app-using-firebase-and-google-maps-in-android/)
+3. [Geo location tracking in android with kotlin](https://medium.com/@chris_42047/geo-location-tracking-in-android-with-kotlin-f4ec57743956)
+4. [Geo location Kotlin example](https://gist.github.com/vishnuharidas/33c95afb49ebe9c2dd3c65b5b13d534d)
+5. [Kotlin Docs - Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
+6. [Kotlin Docs - Create-first multiplatform mobile app](https://kotlinlang.org/docs/multiplatform-mobile-create-first-app.html)
+7. [Kotlin Docs - Kotlin for server side](https://kotlinlang.org/docs/server-overview.html)
+8. [Kotlin Docs - Set up a Kotlin/JS project](https://kotlinlang.org/docs/js-project-setup.html)
+9. [Udemy Course - Web development with Kotlin](https://www.udemy.com/course/web-development-with-kotlin/learn/lecture/17400848?start=0#content)
 
 Getting started with Angular and Ionic
 --------------------------------------

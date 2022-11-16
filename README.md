@@ -127,6 +127,8 @@ Courses
 15. [Academind.com - Programming courses for everyone](https://academind.com/)
 16. [freecodecamp.org - Learn to code — for free](https://www.freecodecamp.org/)
 
+17. [Exponent - Succeed in your tech career, - Interview Prep](https://www.tryexponent.com/)
+
 How tos
 -------
 1. [medium.com/nomic-foundation-blog - How to get started with buidler](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)

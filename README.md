@@ -195,8 +195,8 @@ Gnosis - xDai
 
 Governance
 ----------
--[Vitalik Buterin - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
--[Eric Arsenault - Coting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
+- [Vitalik Buterin - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+- [Eric Arsenault - Coting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
 
 Public good projects
 ---------------------

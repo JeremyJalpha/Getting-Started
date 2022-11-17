@@ -193,6 +193,11 @@ Gnosis - xDai
 -------------
 - [xDai](https://docs.gnosischain.com/about/tokens/xdai)
 
+Governance
+----------
+-[Vitalik Buterin - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+-[Eric Arsenault - Coting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
+
 Public good projects
 ---------------------
 - [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
@@ -205,9 +210,11 @@ SCAM ALERTS
 
 Watch this space
 ----------------
+- https://openai.com/dall-e-2/
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
 - https://github.com/dexlab-io/dexpay-pos
 - https://earthrewards.net/
+- https://www.ovr.ai/
 - https://wrapeth.com/
 - https://www.poap.xyz/
 - https://showcase.ethglobal.co/nfthack/boundless

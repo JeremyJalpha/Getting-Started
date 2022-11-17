@@ -207,6 +207,7 @@ Watch this space
 ----------------
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
 - https://github.com/dexlab-io/dexpay-pos
+- https://earthrewards.net/
 - https://wrapeth.com/
 - https://www.poap.xyz/
 - https://showcase.ethglobal.co/nfthack/boundless

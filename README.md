@@ -7,7 +7,7 @@ The below links are for informative and learning purposes only. This list is not
 
 Blockchain legal precedents
 ---------------------------
-https://www.nortonrosefulbright.com/en/inside-fintech/blog/distributed-ledger-technologies-blockchain-and-smart-contracts
+[nortonrosefulbright.com](https://knowledgeproducts.nortonrosefulbright.com/nrf/fintech-hub)
 
 Back to basics for beginners
 ----------------------------

@@ -247,6 +247,7 @@ Watch this space
 - https://www.hackerrank.com/
 - https://www.hackerearth.com/
 - https://www.topcoder.com/
+- https://www.fairphone.com/en/
 
 Reading list
 ------------

@@ -35,8 +35,10 @@ Tech stacks to watch
 4. Kotlin, NestJS, Angular + TypeScript, Scala
 5. Rust
 6. Node.js
---
+
+
 No Codes:
+---------
 https://www.appypie.com/
 
 

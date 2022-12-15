@@ -29,7 +29,7 @@ Back to basics for beginners
 
 Tech stacks to watch
 --------------------
-1. Solidity, Elrond, Polygon, Aragon
+1. Solidity, Elrond, Polygon, 1hive
 2. Flutter, Blazor, Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
 3. Scaffold.eth & Hard Hat
 4. Kotlin, NestJS, Angular + TypeScript, Scala
@@ -216,6 +216,7 @@ SCAM ALERTS
 
 Watch this space
 ----------------
+- https://1hive.org/
 - https://openai.com/dall-e-2/
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
 - https://github.com/dexlab-io/dexpay-pos

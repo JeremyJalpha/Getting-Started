@@ -33,7 +33,7 @@ Tech stacks to watch
 2. Flutter, Blazor, Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
 3. Scaffold.eth & Hard Hat
 4. Kotlin, NestJS, Angular + TypeScript, Scala
-5. Rust, Go, Lua, Rust
+5. Rust, Go, Lua
 6. Node.js
 
 

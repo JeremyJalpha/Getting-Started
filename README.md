@@ -216,7 +216,7 @@ SCAM ALERTS
 
 Watch this space
 ----------------
-- https://1hive.org/
+- https://1hive.org/ & https://1hive.gitbook.io/celeste/
 - https://openai.com/dall-e-2/
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
 - https://github.com/dexlab-io/dexpay-pos

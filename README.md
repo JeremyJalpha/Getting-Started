@@ -29,7 +29,7 @@ Back to basics for beginners
 
 Tech stacks to watch
 --------------------
-1. Solidity, Elrond, Polygon, 1hive
+1. Solidity, Elrond, Polygon, 1hive & celeste
 2. Flutter, Blazor, Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
 3. Scaffold.eth & Hard Hat
 4. Kotlin, NestJS, Angular + TypeScript, Scala

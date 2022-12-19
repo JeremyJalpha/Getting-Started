@@ -266,6 +266,8 @@ Reading list
 - https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-the-network/ba-p/1441552
 - https://forum.cardano.org/t/one-identity-to-rule-them-all-managing-digital-identities-using-blockchain/40289
 
+- https://en.wikipedia.org/wiki/Digital_physics
+
 Real estate
 -----------
 - https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b

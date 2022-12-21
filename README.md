@@ -81,13 +81,14 @@ Moralis
 2. [Video - Serverless DApps](https://www.youtube.com/watch?v=rd0TTLjQLy4)
 3. [Video - Hard Hat App Ex](https://www.youtube.com/watch?v=5V5vDJhafwk)
 4. [Video - Push Notifications](https://www.youtube.com/watch?v=PEILxU53-Zs)
-5. [Video - Data persistence - IPFS](https://www.youtube.com/watch?v=jRjFn__kVJM)
-6. [Video - Working with Queries](https://www.youtube.com/watch?v=l0NvTvNxpQo)
-7. [Video - Hard Hat Config](https://www.youtube.com/watch?v=LdNb3uW6Vl4)
-8. [Video - Hard Hat to Metamask](https://www.youtube.com/watch?v=FTDEX3S1eqU)
-9. [Video - First Elrond app in 5 mins](https://www.youtube.com/watch?v=IdkgvlK3rb8)
-10. [Video - Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
-11. [Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
+5. [Video - What is Web3 storage](https://moralis.io/an-introduction-to-web3-storage-what-is-it-and-how-does-it-work/)
+6. [Video - Data persistence - IPFS](https://www.youtube.com/watch?v=jRjFn__kVJM)
+7. [Video - Working with Queries](https://www.youtube.com/watch?v=l0NvTvNxpQo)
+8. [Video - Hard Hat Config](https://www.youtube.com/watch?v=LdNb3uW6Vl4)
+9. [Video - Hard Hat to Metamask](https://www.youtube.com/watch?v=FTDEX3S1eqU)
+10. [Video - First Elrond app in 5 mins](https://www.youtube.com/watch?v=IdkgvlK3rb8)
+11. [Video - Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
+12. [Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 
 Kotlin
 ------

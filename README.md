@@ -81,7 +81,7 @@ Moralis
 2. [Video - Serverless DApps](https://www.youtube.com/watch?v=rd0TTLjQLy4)
 3. [Video - Hard Hat App Ex](https://www.youtube.com/watch?v=5V5vDJhafwk)
 4. [Video - Push Notifications](https://www.youtube.com/watch?v=PEILxU53-Zs)
-5. [Video - What is Web3 storage](https://moralis.io/an-introduction-to-web3-storage-what-is-it-and-how-does-it-work/)
+5. [Article - What is Web3 storage](https://moralis.io/an-introduction-to-web3-storage-what-is-it-and-how-does-it-work/)
 6. [Video - Data persistence - IPFS](https://www.youtube.com/watch?v=jRjFn__kVJM)
 7. [Video - Working with Queries](https://www.youtube.com/watch?v=l0NvTvNxpQo)
 8. [Video - Hard Hat Config](https://www.youtube.com/watch?v=LdNb3uW6Vl4)

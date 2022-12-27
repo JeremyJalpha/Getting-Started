@@ -88,7 +88,8 @@ Moralis
 9. [Video - Hard Hat to Metamask](https://www.youtube.com/watch?v=FTDEX3S1eqU)
 10. [Video - First Elrond app in 5 mins](https://www.youtube.com/watch?v=IdkgvlK3rb8)
 11. [Video - Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
-12. [Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
+12. [Article - Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
+13. [Article - Blockchain Discord Bot](https://docs.moralis.io/docs/blockchain-discord-bot)
 
 Kotlin
 ------

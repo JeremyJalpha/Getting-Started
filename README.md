@@ -49,9 +49,9 @@ Other amazing tools
 3. [shuffle.dev](https://shuffle.dev/)
 4. [material.angular.io](https://material.angular.io/)
 5. [elementor](https://github.com/elementor/elementor)
-6. [pages.tatum.io](https://pages.tatum.io)
-7. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
-8. [github.com/MadnessLabs/StencilPress](https://github.com/MadnessLabs/StencilPress)
+6. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
+7. [github.com/MadnessLabs/StencilPress](https://github.com/MadnessLabs/StencilPress)
+8. [Figma](https://www.figma.com/) / [Webflow](https://webflow.com/)
 
 People to follow
 ----------------

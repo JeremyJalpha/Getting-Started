@@ -51,7 +51,7 @@ Other amazing tools
 5. [elementor](https://github.com/elementor/elementor)
 6. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
 7. [github.com/MadnessLabs/StencilPress](https://github.com/MadnessLabs/StencilPress)
-8. [Figma](https://www.figma.com/) / [Webflow](https://webflow.com/)
+8. [Figma](https://www.figma.com/) / [Webflow](https://webflow.com/) / [Elementor](https://elementor.com/)
 
 People to follow
 ----------------

@@ -55,14 +55,20 @@ UI Libraries/Frameworks:
 [ionicblocks.com](https://ionicblocks.com)
 [material.angular.io](https://material.angular.io/)
 [StencilPress](https://github.com/MadnessLabs/StencilPress)
-[shuffle.dev](https://shuffle.dev/)
-[codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
 
 Website Builders:
 -
 [bootstrapstudio.io](https://bootstrapstudio.io/)
 [Webflow](https://webflow.com/)
 [Elementor](https://elementor.com/)
+
+Pre-designed UI components + Website Builder:
+-
+[shuffle.dev](https://shuffle.dev/)
+
+Online Code editor:
+-
+[codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
 
 
 People to follow

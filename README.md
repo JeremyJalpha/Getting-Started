@@ -37,12 +37,13 @@ Development Frameworks/Libraries:
 Gatsby, Flutter, Ionic, Blazor
 
 Programming Languages:
-Motoko (ICP), Solidity (Ethereum), Kotlin, TypeScript, Scala, Rust, Go, Lua
+Motoko (ICP), Kotlin, TypeScript, 
 
 Other / General:
 Elrond, Polygon,
 Angular, Vue.js, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
+Solidity (Ethereum), Scala, Rust, Go, Lua
 
 
 No Codes:

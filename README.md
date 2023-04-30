@@ -45,14 +45,25 @@ https://www.builder.ai/
 
 Other amazing tools
 -------------------
-1. [ionicblocks.com](https://ionicblocks.com)
-2. [bootstrapstudio.io](https://bootstrapstudio.io/)
-3. [shuffle.dev](https://shuffle.dev/)
-4. [material.angular.io](https://material.angular.io/)
-5. [elementor](https://github.com/elementor/elementor)
-6. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
-7. [github.com/MadnessLabs/StencilPress](https://github.com/MadnessLabs/StencilPress)
-8. [Figma](https://www.figma.com/) / [Webflow](https://webflow.com/) / [Elementor](https://elementor.com/)
+Design Tools:
+-
+[Figma](https://www.figma.com/)
+[Sketch](https://www.sketch.com/)
+
+UI Libraries/Frameworks:
+-
+[ionicblocks.com](https://ionicblocks.com)
+[material.angular.io](https://material.angular.io/)
+[StencilPress](https://github.com/MadnessLabs/StencilPress)
+[shuffle.dev](https://shuffle.dev/)
+[codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
+
+Website Builders:
+-
+[bootstrapstudio.io](https://bootstrapstudio.io/)
+[Webflow](https://webflow.com/)
+[Elementor](https://elementor.com/)
+
 
 People to follow
 ----------------

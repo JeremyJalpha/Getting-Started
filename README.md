@@ -27,13 +27,20 @@ Back to basics for beginners
 13. [Bitcoin.stackexchange.com - Why is mining necessary for the bitcoin network system](https://bitcoin.stackexchange.com/questions/10343/why-is-mining-necessary-for-the-bitcoin-network-system)
 14. [Reddit.com - Why is there a need for fee pressure if miners](https://www.reddit.com/r/Bitcoin/comments/3f6rvp/why_is_there_a_need_for_fee_pressure_if_miners/)
 
-Tech stacks to watch
---------------------
-1. Solidity, Elrond, Polygon, 1hive & Celeste
-2. Angular, Flutter, Blazor, Ionic (Phonegap/Cordova) **_OR_** ReactNative + Expo + Redux
-3. Scaffold.eth & Hard Hat
-4. NestJS, Node.js
-5. Kotlin, TypeScript, Scala, Rust, Go, Lua
+
+Top of my learning List:
+------------------------
+Decentralized Tools:
+Scaffold.eth, Hard Hat, Internet Computer Protocol, 1hive & Celeste
+
+Development Frameworks/Libraries:
+Gatsby, Blazor, Flutter, Ionic, ReactNative, Expo, Redux
+
+Programming Languages:
+Motoko (ICP), Solidity (Ethereum), Kotlin, TypeScript, Scala, Rust, Go, Lua
+
+Other / General:
+Angular, Elrond, Polygon, NestJS, Node.js
 
 
 No Codes:

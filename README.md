@@ -37,7 +37,7 @@ Development Frameworks/Libraries:
 Gatsby, Flutter, Ionic, Blazor
 
 Programming Languages:
-Motoko (ICP), TypeScript, Kotlin 
+Motoko (ICP), TypeScript, Kotlin
 
 Other / General:
 Elrond, Polygon

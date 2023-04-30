@@ -34,7 +34,7 @@ Decentralized Tools:
 Scaffold.eth, Hard Hat, Internet Computer Protocol, 1hive & Celeste
 
 Development Frameworks/Libraries:
-Gatsby, Ionic, Flutter, Blazor (OR: Vue.js, Svelte), Redux, ReactNative + Expo
+Gatsby, Flutter, Ionic, Blazor, Vue.js, Svelte, ReactNative + Redux + Expo
 
 Programming Languages:
 Motoko (ICP), Solidity (Ethereum), Kotlin, TypeScript, Scala, Rust, Go, Lua

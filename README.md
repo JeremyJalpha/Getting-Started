@@ -40,7 +40,7 @@ Programming Languages:
 Motoko (ICP), Kotlin, TypeScript, 
 
 Other / General:
-Elrond, Polygon,
+Elrond, Polygon
 Angular, Vue.js, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
 Solidity (Ethereum), Scala, Rust, Go, Lua

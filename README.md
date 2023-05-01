@@ -41,7 +41,7 @@ Motoko (ICP), TypeScript, Kotlin
 
 Other / General:
 Elrond, Polygon
-Angular, Vue.js, Svelte, ReactNative + Redux + Expo
+Angular, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
 Solidity (Ethereum), Scala, Rust, Go, Lua
 

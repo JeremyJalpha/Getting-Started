@@ -1,7 +1,8 @@
 # A List of links to get started in Blockchain quickly.
 ```
 Disclaimer:
-The below links are for informative and learning purposes only. This list is not financial advice please do your own research.
+The below links are for informative and learning purposes only. 
+This list is not financial advice please do your own research.
 ```
 
 ## Blockchain legal precedents:

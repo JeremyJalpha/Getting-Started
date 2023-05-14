@@ -77,6 +77,14 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ------------------------------------
 
+## Governance:
+- [Vitalik Buterin - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
+- [Eric Arsenault - Voting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
+
+## Public good projects:
+- [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
+- [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
+
 ## Jump right in guide:
 1. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
 2. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
@@ -209,14 +217,6 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ## Gnosis - xDai:
 - [xDai](https://docs.gnosischain.com/about/tokens/xdai)
-
-## Governance:
-- [Vitalik Buterin - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
-- [Eric Arsenault - Voting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
-
-## Public good projects:
-- [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
-- [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
 
 ## SCAM ALERTS:
 - https://www.amfeix.com

@@ -1,16 +1,13 @@
-A List of links to get started in Blockchain quickly.
------------------------------------------------------
-
-Disclaimer
-----------
+# A List of links to get started in Blockchain quickly.
+```
+Disclaimer:
 The below links are for informative and learning purposes only. This list is not financial advice please do your own research.
+```
 
-Blockchain legal precedents
----------------------------
+## Blockchain legal precedents:
 [nortonrosefulbright.com](https://knowledgeproducts.nortonrosefulbright.com/nrf/fintech-hub)
 
-Back to basics for beginners
-----------------------------
+## Back to basics for beginners:
 1. [Video - But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 2. [Video - How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs)
 3. [Video - How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
@@ -27,6 +24,7 @@ Back to basics for beginners
 13. [Bitcoin.stackexchange.com - Why is mining necessary for the bitcoin network system](https://bitcoin.stackexchange.com/questions/10343/why-is-mining-necessary-for-the-bitcoin-network-system)
 14. [Reddit.com - Why is there a need for fee pressure if miners](https://www.reddit.com/r/Bitcoin/comments/3f6rvp/why_is_there_a_need_for_fee_pressure_if_miners/)
 
+---
 ```
 Top of my learning List:
 ------------------------
@@ -44,52 +42,47 @@ Elrond, Polygon
 Angular, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
 Solidity (Ethereum), Scala, Rust, Go, Lua
-
-
-No Codes:
----------
-https://www.appypie.com/
-https://www.builder.ai/
-
-
-Other amazing tools
--------------------
-UI Libraries/Frameworks:
-[ionicblocks.com](https://ionicblocks.com)
-[material.angular.io](https://material.angular.io/)
-[StencilPress](https://github.com/MadnessLabs/StencilPress)
-
-Pre-designed UI components + Website Builder:
-[shuffle.dev](https://shuffle.dev/)
-
-Website Builders:
-[bootstrapstudio.io](https://bootstrapstudio.io/)
-[Webflow](https://webflow.com/)
-[Elementor](https://elementor.com/)
--
-[flutterflow](https://flutterflow.io/)
-
-Online Code editor:
-[codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
-
-Design Tools:
-[Figma](https://www.figma.com/)
-[Sketch](https://www.sketch.com/)
 ```
+---
 
-People to follow
-----------------
+## Other amazing tools:
+### No Codes:
+1. https://www.appypie.com/
+2. https://www.builder.ai/
+
+### UI Libraries/Frameworks:
+1. [ionicblocks.com](https://ionicblocks.com)
+2. [material.angular.io](https://material.angular.io/)
+3. [StencilPress](https://github.com/MadnessLabs/StencilPress)
+
+### Pre-designed UI components + Website Builder:
+1. [shuffle.dev](https://shuffle.dev/)
+
+### Website Builders:
+1. [bootstrapstudio.io](https://bootstrapstudio.io/)
+2. [Webflow](https://webflow.com/)
+3. [Elementor](https://elementor.com/)
+4. [flutterflow](https://flutterflow.io/)
+
+### Online Code editor:
+1. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
+
+### Design Tools:
+1. [Figma](https://www.figma.com/)
+2. [Sketch](https://www.sketch.com/)
+
+## People to follow:
 @austingriffith, @woonomic, @coinbureau, @maxedapps, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
 
-Jump right in guide:
---------------------
+------------------------------------
+
+## Jump right in guide:
 1. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
 2. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
 3. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
 4. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
 
-Austin Griffith
----------------
+## Austin Griffith:
 1. [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 2. [Eth.build](https://eth.build/)
 3. [Scaffold.Eth - Tutorial](https://github.com/austintgriffith/scaffold-eth)
@@ -99,8 +92,7 @@ Austin Griffith
 7. [Scaffold.Eth - Buyer Mints](https://github.com/austintgriffith/scaffold-eth/tree/buyer-mints-nft)
 8. [Signator.io](https://twitter.com/austingriffith/status/1465734308782477315)
 
-Moralis
--------
+## Moralis:
 1. [Video - Angular Tutorial](https://www.youtube.com/watch?v=3WU8ple4zsM)
 2. [Video - Serverless DApps](https://www.youtube.com/watch?v=rd0TTLjQLy4)
 3. [Video - Hard Hat App Ex](https://www.youtube.com/watch?v=5V5vDJhafwk)
@@ -115,8 +107,7 @@ Moralis
 12. [Article - Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
 13. [Article - Blockchain Discord Bot](https://docs.moralis.io/docs/blockchain-discord-bot)
 
-Kotlin
-------
+## Kotlin:
 1. [Multiplatform full stack app](https://kotlinlang.org/docs/multiplatform-full-stack-app.html)
 2. [Creating a location tracking app using Firebase and Google maps in Android](https://www.section.io/engineering-education/creating-a-location-tracking-app-using-firebase-and-google-maps-in-android/)
 3. [Geo location tracking in android with kotlin](https://medium.com/@chris_42047/geo-location-tracking-in-android-with-kotlin-f4ec57743956)
@@ -127,16 +118,14 @@ Kotlin
 8. [Kotlin Docs - Set up a Kotlin/JS project](https://kotlinlang.org/docs/js-project-setup.html)
 9. [Udemy Course - Web development with Kotlin](https://www.udemy.com/course/web-development-with-kotlin/learn/lecture/17400848?start=0#content)
 
-Getting started with Angular and Ionic
---------------------------------------
+## Getting started with Angular and Ionic:
 1. [Video - How to Build a Native App from Angular Projects with Capacitor](https://www.youtube.com/watch?v=V2Wn2JROUEo)
 2. [Video - How to Create an Ionic PWA with Web Push Notifications](https://www.youtube.com/watch?v=4B5JK2BjsCk)
 3. [Video - The Push Notifications Guide for Ionic & Capacitor](https://www.youtube.com/watch?v=YUr8pw0nO7Y)
 4. [Video - push notification in ionic capacitor app](https://www.youtube.com/watch?v=Z9_laCsphR4)
 5. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
 
-Courses
---------
+## Courses:
 1. [Crypto masterclass class one ethereum hands on](https://www.udemy.com/course/crypto-masterclass-class-one-ethereum-hands-on)
 2. [Ethereum and Solidity the complete developers guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
 3. [Ethereum developer](https://www.udemy.com/course/ethereum-developer)
@@ -162,8 +151,7 @@ Courses
 17. [Exponent - Succeed in your tech career, - Interview Prep](https://www.tryexponent.com/)
 18. [buildspace - Dare to dream. Dare to build.](https://buildspace.so/)
 
-How tos
--------
+## How tos:
 1. [medium.com/nomic-foundation-blog - How to get started with buidler](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
 2. [moralis.io - How to build Ethereum dapps in angular](https://moralis.io/how-to-build-ethereum-dapps-in-angular/)
 3. [medium.com/blockchain-developer - Learn how to create your own dapp with angular part i](https://medium.com/blockchain-developer/learn-how-to-create-your-own-dapp-with-angular-part-i-688f24e0ad9e)
@@ -199,50 +187,41 @@ How tos
 31. [github.com/AztecProtocol - Loan dapp starter kit](https://github.com/AztecProtocol/loan-dapp-starter-kit)
 32. [learntodroid.com - How to create a simple alarm clock app in Android](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
 
-Hackathon / Demos
------------------
+## Hackathon / Demos:
 - [verynifty.medium.com - Verynifty](https://verynifty.medium.com/verynifty-4945b9f3c27f)
 - [showcase.ethglobal.co - Nifty DM](https://showcase.ethglobal.co/nfthack/nifty-dm)
 
-Burner wallets
---------------
+## Burner wallets:
 - [dmihal.medium.com - What are burner wallet plugins](https://dmihal.medium.com/what-are-burner-wallet-plugins-5c497e4bd279)
 - [dmihal.medium.com - Introducing the burner wallet 2](https://dmihal.medium.com/introducing-the-burner-wallet-2-542604dc8d28)
 - [medium.com/gitcoin - Burner wallet at ethdenver was](https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833)
 - [xdaichain.com - Burner wallet functions](https://www.xdaichain.com/for-users/wallets/burner-wallet/burner-wallet-functions)
 
-Stratis
--------
+## Stratis:
 - [Video - How to easily Deploy A Stratis Smart Contract Tutorial](https://www.youtube.com/watch?v=2F7smOsNvPs)
 - [Getting Started with Stratis](http://stratisdevelopmentfoundation.com/starting/)
 - [Smart Contracts in C#](https://stratisplatform.com/2018/05/16/stratis-smart-contracts-in-csharp/)
 - [Auction Smart Contract](https://smartcontractsdocs.stratisplatform.com/SmartContracts/auction-smart-contract.html)
 
-Nifty.ink
----------
+## Nifty.ink:
 - [Project spotlights](https://www.xdaichain.com/about-xdai/project-spotlights/nifty.ink)
 
-Gnosis - xDai
--------------
+## Gnosis - xDai:
 - [xDai](https://docs.gnosischain.com/about/tokens/xdai)
 
-Governance
-----------
+## Governance:
 - [Vitalik Buterin - Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
 - [Eric Arsenault - Voting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
 
-Public good projects
----------------------
+## Public good projects:
 - [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
 - [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
 
-SCAM ALERTS
-------------
+## SCAM ALERTS:
 - https://www.amfeix.com
 - https://cryptopotato.com/you-can-now-use-crypto-to-purchase-nasdaq-tokenized-stocks/
 
-Watch this space
-----------------
+## Watch this space:
 - https://1hive.org/ & https://1hive.gitbook.io/celeste/
 - https://openai.com/dall-e-2/
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
@@ -279,8 +258,7 @@ Watch this space
 - https://www.topcoder.com/
 - https://www.fairphone.com/en/
 
-Reading list
-------------
+## Reading list:
 - https://news.bitcoin.com/carbon-credit-token-mco2-is-now-listed-on-gemini-learn-about-the-green-asset-set-to-save-the-planet/
 - https://news.bitcoin.com/iexec-launches-oracle-factory-allowing-anyone-to-create-custom-oracles-in-minutes/
 - https://news.bitcoin.com/ovr-land-map-the-biggest-detailed-3d-map-of-the-real-world-with-nfts/
@@ -297,8 +275,7 @@ Reading list
 
 - https://en.wikipedia.org/wiki/Digital_physics
 
-Real estate
------------
+## Real estate:
 - https://medium.com/mvp-workshop/tokenizing-real-estate-what-are-the-benefits-pitfalls-and-misconceptions-of-tokenizing-assets-86d90f8ef3b
 - https://www.solidblock.co/tokenize-real-estate.html
 - https://www.quora.com/What-does-it-mean-to-tokenize-real-estate

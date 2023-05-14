@@ -27,7 +27,7 @@ Back to basics for beginners
 13. [Bitcoin.stackexchange.com - Why is mining necessary for the bitcoin network system](https://bitcoin.stackexchange.com/questions/10343/why-is-mining-necessary-for-the-bitcoin-network-system)
 14. [Reddit.com - Why is there a need for fee pressure if miners](https://www.reddit.com/r/Bitcoin/comments/3f6rvp/why_is_there_a_need_for_fee_pressure_if_miners/)
 
-
+```
 Top of my learning List:
 ------------------------
 Decentralized Tools:
@@ -75,7 +75,7 @@ Online Code editor:
 Design Tools:
 [Figma](https://www.figma.com/)
 [Sketch](https://www.sketch.com/)
-
+```
 
 People to follow
 ----------------

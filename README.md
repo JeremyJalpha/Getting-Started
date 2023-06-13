@@ -56,14 +56,12 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 2. [material.angular.io](https://material.angular.io/)
 3. [StencilPress](https://github.com/MadnessLabs/StencilPress)
 
-### Pre-designed UI components + Website Builder:
-1. [shuffle.dev](https://shuffle.dev/)
-
-### Website Builders:
-1. [bootstrapstudio.io](https://bootstrapstudio.io/)
-2. [Webflow](https://webflow.com/)
-3. [Elementor](https://elementor.com/)
-4. [FlutterFlow](https://flutterflow.io/)
+### Website Builders / pre-built components:
+1. [FlutterFlow](https://flutterflow.io/)
+2. [bootstrapstudio.io](https://bootstrapstudio.io/)
+3. [Webflow](https://webflow.com/)
+4. [Elementor](https://elementor.com/)
+5. [shuffle.dev](https://shuffle.dev/)
 
 ### Online Code editor:
 1. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)

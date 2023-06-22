@@ -55,6 +55,7 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 1. [ionicblocks.com](https://ionicblocks.com)
 2. [material.angular.io](https://material.angular.io/)
 3. [StencilPress](https://github.com/MadnessLabs/StencilPress)
+4. [StencilJS](https://github.com/mappmechanic/awesome-stenciljs)
 
 ### Website Builders / pre-built components:
 1. [FlutterFlow](https://flutterflow.io/)

@@ -106,15 +106,15 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 3. [Video - Serverless DApps](https://www.youtube.com/watch?v=rd0TTLjQLy4)
 4. [Video - Hard Hat App Ex](https://www.youtube.com/watch?v=5V5vDJhafwk)
 5. [Video - Push Notifications](https://www.youtube.com/watch?v=PEILxU53-Zs)
-6. [Article - What is Web3 storage](https://moralis.io/an-introduction-to-web3-storage-what-is-it-and-how-does-it-work/)
+6. [What is Web3 storage](https://moralis.io/an-introduction-to-web3-storage-what-is-it-and-how-does-it-work/)
 7. [Video - Data persistence - IPFS](https://www.youtube.com/watch?v=jRjFn__kVJM)
 8. [Video - Working with Queries](https://www.youtube.com/watch?v=l0NvTvNxpQo)
 9. [Video - Hard Hat Config](https://www.youtube.com/watch?v=LdNb3uW6Vl4)
 10. [Video - Hard Hat to Metamask](https://www.youtube.com/watch?v=FTDEX3S1eqU)
 11. [Video - First Elrond app in 5 mins](https://www.youtube.com/watch?v=IdkgvlK3rb8)
 12. [Video - Moralis Elrond Login](https://www.youtube.com/watch?v=0dLNIbx4GbY)
-13. [Article - Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
-14. [Article - Blockchain Discord Bot](https://docs.moralis.io/docs/blockchain-discord-bot)
+13. [Build a DAO](https://moralis.io/how-to-create-a-dao-in-10-minutes/)
+14. [Blockchain Discord Bot](https://docs.moralis.io/docs/blockchain-discord-bot)
 
 ## Kotlin:
 1. [Multiplatform full stack app](https://kotlinlang.org/docs/multiplatform-full-stack-app.html)

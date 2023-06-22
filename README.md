@@ -205,6 +205,9 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 - [medium.com/gitcoin - Burner wallet at ethdenver was](https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833)
 - [xdaichain.com - Burner wallet functions](https://www.xdaichain.com/for-users/wallets/burner-wallet/burner-wallet-functions)
 
+## CordaR3
+ - [CordaR3](https://docs.r3.com/en/platform/corda/5.0-dev-preview-2/getting-started/debugging-against-local-corda/debugging-against-local-corda.html)
+
 ## Stratis:
 - [Video - How to easily Deploy A Stratis Smart Contract Tutorial](https://www.youtube.com/watch?v=2F7smOsNvPs)
 - [Getting Started with Stratis](http://stratisdevelopmentfoundation.com/starting/)

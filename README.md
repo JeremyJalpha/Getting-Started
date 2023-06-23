@@ -91,6 +91,10 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 4. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
 5. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
 
+## Internet Computer Protocol:
+1. [Creating a project - Creating a project from a template](https://internetcomputer.org/docs/current/tutorials/create_your_first_app/creating-project)
+2. [How to deploy your first canister using the nns dApp](https://medium.com/dfinity/how-to-deploy-your-first-canister-using-the-nns-dapp-c8b75e01a05b)
+
 ## Austin Griffith:
 1. [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 2. [Eth.build](https://eth.build/)
@@ -136,6 +140,9 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ## HardHat:
 1. [HardHat](https://hardhat.org/tutorial/testing-contracts.html)
+
+## Flutter:
+1. [Flutter based bus scheduler example](https://github.com/R8bert/busappschedule)
 
 ## Kotlin:
 1. [Multiplatform full stack app](https://kotlinlang.org/docs/multiplatform-full-stack-app.html)

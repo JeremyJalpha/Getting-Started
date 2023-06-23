@@ -214,6 +214,10 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 19. [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw)
 
 ## General how tos:
+### 1 - Examples / Speed builds:
+1. [Uber Clone 1](https://github.com/devrdias/react-native-clone-uber)
+2. [Uber Clone 2](https://github.com/sanimridha/UBER-2.0)
+### 2 - General:
 1. [ReactNative push-notifications tutorial](https://www.reactnativeschool.com/push-notifications/)
 2. [The Complete React Native Course 2021 : from Zero to Hero](https://www.youtube.com/watch?v=ANdSdIlgsEw)
 3. [Installing React Native Firebase Core (Part 3) | Push Notifications with React Native Firebase](https://www.youtube.com/watch?v=xgc2NLIHr14)

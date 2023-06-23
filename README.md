@@ -157,7 +157,7 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 9. [Udemy Course - Web development with Kotlin](https://www.udemy.com/course/web-development-with-kotlin/learn/lecture/17400848?start=0#content)
 
 ## Getting started with Angular and Ionic:
-### 1 - Example speed build:
+### 1 - Examples / Speed builds:
 1. [Building a Deliveroo Food Ordering UI with Ionic](https://www.youtube.com/watch?v=82iWIKejaiQ)
 ### 2:
 1. [Video - How to Build a Native App from Angular Projects with Capacitor](https://www.youtube.com/watch?v=V2Wn2JROUEo)

@@ -85,10 +85,11 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 - [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
 
 ## Jump right in guide:
-1. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
-2. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
-3. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
-4. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
+1. [Build web3 games + apps with ease](https://medium.com/0xsequence/build-web3-games-apps-with-ease-30417025845f)
+2. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
+3. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
+4. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
+5. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
 
 ## Austin Griffith:
 1. [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)

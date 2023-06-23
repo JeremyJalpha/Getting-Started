@@ -136,7 +136,18 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 3. [Video - The Push Notifications Guide for Ionic & Capacitor](https://www.youtube.com/watch?v=YUr8pw0nO7Y)
 4. [Capacitor push-notifications docs](https://capacitorjs.com/docs/apis/push-notifications)
 5. [Video - push notification in ionic capacitor app](https://www.youtube.com/watch?v=Z9_laCsphR4)
-6. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
+6. [Push Notifications using Angular and Firebase Cloud Messaging | The Blueflame Labs](https://www.youtube.com/watch?v=4JriJgRF3No)
+7. [How to prepare your Ionic PWA to receive push notifications](https://www.youtube.com/watch?v=wv7qhZv_sX4)
+8. [Building a web application with #Angular and #Firebase](https://www.youtube.com/watch?v=nh9OMi-JY5s)
+9. https://medium.com/@jishnusaha89/firebase-cloud-messaging-push-notifications-with-angular-1fb7f173bfba
+10. https://www.positronx.io/ionic-firebase-fcm-push-notification-tutorial-with-example/
+11. https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/
+12. https://issuu.com/theblueflames/docs/how_to_use_push_notifications_using_angular_and_fi
+13. https://www.theblueflamelabs.com/how-to-use-push-notifications-using-angular-and-firebase-cloud-messaging/
+14. https://www.thisdot.co/blog/pwa-push-notifications-with-firebase-cloud-messaging-pt1
+15. https://blog.angular-university.io/angular-push-notifications/
+16. https://www.section.io/engineering-education/fcm-with-spring-and-angular/
+17. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
 
 ## Courses:
 1. [Crypto masterclass class one ethereum hands on](https://www.udemy.com/course/crypto-masterclass-class-one-ethereum-hands-on)

@@ -182,6 +182,10 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 20. https://www.section.io/engineering-education/fcm-with-spring-and-angular/
 21. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
 
+## ReactNative
+1. [Installing React Native Firebase Core (Part 3) | Push Notifications with React Native Firebase](https://www.youtube.com/watch?v=xgc2NLIHr14)
+2. [The Complete React Native Course: from Zero to Hero](https://www.youtube.com/watch?v=ANdSdIlgsEw)
+
 ## Courses:
 1. [Crypto masterclass class one ethereum hands on](https://www.udemy.com/course/crypto-masterclass-class-one-ethereum-hands-on)
 2. [Ethereum and Solidity the complete developers guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide)
@@ -207,41 +211,42 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 17. [Exponent - Succeed in your tech career, - Interview Prep](https://www.tryexponent.com/)
 18. [buildspace - Dare to dream. Dare to build.](https://buildspace.so/)
+19. [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw)
 
 ## General how tos:
-1. [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw)
-2. [ReactNative push-notifications tutorial](https://www.reactnativeschool.com/push-notifications/)
-3. [The Complete React Native Course 2021 : from Zero to Hero](https://www.youtube.com/watch?v=ANdSdIlgsEw)
-4. [Installing React Native Firebase Core (Part 3) | Push Notifications with React Native Firebase](https://www.youtube.com/watch?v=xgc2NLIHr14)
-5. [medium.com/nomic-foundation-blog - How to get started with buidler](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
-6. [medium.com/blockchain-developer - Learn how to create your own dapp with angular part i](https://medium.com/blockchain-developer/learn-how-to-create-your-own-dapp-with-angular-part-i-688f24e0ad9e)
-7. [blog.oliverjumpertz.dev - How to set up a solidity project and create your first smart contract](https://blog.oliverjumpertz.dev/how-to-set-up-a-solidity-project-and-create-your-first-smart-contract)
-8. [ethereum-blockchain-developer - 01 setup Remix](https://ethereum-blockchain-developer.com/003-first-smart-contract/01-setup-remix/)
-9. [medium.com/solidify - Lesson 1 your first solidity smart contract](https://medium.com/solidify/lesson-1-your-first-solidity-smart-contract-1ba7e641f9a3)
-10. [medium.com/@joselfgaray - DAO workshop testnet](https://medium.com/@joselfgaray/dao-workshop-testnet-b406380894a6)
-11. [medium.com/dfinity - Building a front end dapp on the internet computer](https://medium.com/dfinity/building-a-front-end-dapp-on-the-internet-computer-55985f0a595b)
+1. [ReactNative push-notifications tutorial](https://www.reactnativeschool.com/push-notifications/)
+2. [The Complete React Native Course 2021 : from Zero to Hero](https://www.youtube.com/watch?v=ANdSdIlgsEw)
+3. [Installing React Native Firebase Core (Part 3) | Push Notifications with React Native Firebase](https://www.youtube.com/watch?v=xgc2NLIHr14)
+4. [medium.com/nomic-foundation-blog - How to get started with buidler](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
+5. [medium.com/blockchain-developer - Learn how to create your own dapp with angular part i](https://medium.com/blockchain-developer/learn-how-to-create-your-own-dapp-with-angular-part-i-688f24e0ad9e)
+6. [blog.oliverjumpertz.dev - How to set up a solidity project and create your first smart contract](https://blog.oliverjumpertz.dev/how-to-set-up-a-solidity-project-and-create-your-first-smart-contract)
+7. [ethereum-blockchain-developer - 01 setup Remix](https://ethereum-blockchain-developer.com/003-first-smart-contract/01-setup-remix/)
+8. [medium.com/solidify - Lesson 1 your first solidity smart contract](https://medium.com/solidify/lesson-1-your-first-solidity-smart-contract-1ba7e641f9a3)
+9. [medium.com/@joselfgaray - DAO workshop testnet](https://medium.com/@joselfgaray/dao-workshop-testnet-b406380894a6)
+10. [medium.com/dfinity - Building a front end dapp on the internet computer](https://medium.com/dfinity/building-a-front-end-dapp-on-the-internet-computer-55985f0a595b)
 
-12. [Video - How to Create an Escrow Contract on Ethereum](https://www.youtube.com/watch?v=6Mry6oAQVXU)
-13. [Video - How To Build An Escrow Smart Contract With Ethereum & Solidity](https://www.youtube.com/watch?v=gU64BZW5lQQ)
-14. [Ethereum.org - developers/docs/dapps/](https://ethereum.org/en/developers/docs/dapps/)
+11. [Video - How to Create an Escrow Contract on Ethereum](https://www.youtube.com/watch?v=6Mry6oAQVXU)
+12. [Video - How To Build An Escrow Smart Contract With Ethereum & Solidity](https://www.youtube.com/watch?v=gU64BZW5lQQ)
+13. [Ethereum.org - developers/docs/dapps/](https://ethereum.org/en/developers/docs/dapps/)
 
-15. [hummingbot.io - Defi Arbitrage](https://hummingbot.io/)
-16. [extropy-io.medium.com - Coding a defi arbitrage bot](https://extropy-io.medium.com/coding-a-defi-arbitrage-bot-45e550d85089)
-17. [social.msdn.microsoft.com - Programming blockchain smart contracts with C on the Neo blockchain](https://social.msdn.microsoft.com/Forums/en-US/4bf3e42b-4701-488f-9ec4-92d7caa47d87/programming-blockchain-smart-contracts-with-c-on-the-neo-blockchain?forum=csharpgeneral)
-18. [medium.com/coinmonks - A net developers workflow for creating and calling ethereum smart contracts](https://medium.com/coinmonks/a-net-developers-workflow-for-creating-and-calling-ethereum-smart-contracts-44714f191db2)
-19. [c-sharpcorner.com - Getting started with smart contracts in c sharp](https://www.c-sharpcorner.com/article/getting-started-with-smart-contracts-in-c-sharp/)
-20. [koukia.ca - Deploy Ethereum smart contracts using C and Visual Studio](https://koukia.ca/deploy-ethereum-smart-contracts-using-c-and-visualstudio-5be188ae928c)
-21. [medium.com/compound-finance - Setting up an Ethereum development environment](https://medium.com/compound-finance/setting-up-an-ethereum-development-environment-7c387664c5fe)
-22. [medium.com/interfacing-with-a-blockchain - How to set up your Ethereum development environment for pc](https://medium.com/interfacing-with-a-blockchain/how-to-set-up-your-ethereum-development-environment-for-pc-f6caf6eb8017)
-23. [medium.com/edgefund - Ethereum development on Windows part 1](https://medium.com/edgefund/ethereum-development-on-windows-part-1-da260f6a6c06)
-24. [auth0.com - An introduction to Ethereum and smart contracts part 3](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3/)
-25. [medium.com/@saturnial - Build your first dapp in 5 minutes part ii](https://medium.com/@saturnial/build-your-first-dapp-in-5-minutes-part-ii-d413f44facf1)
-26. [blog.datafund.net - Chattie or how to build a decentralised chat app in 10 minutes](https://blog.datafund.net/chattie-or-how-to-build-a-decentralised-chat-app-in-10-minutes-72ba816b88)
-27. [github.com/ethereum - Meteor dapp whisper chat client](https://github.com/ethereum/meteor-dapp-whisper-chat-client)
-28. [medium.com/coinmonks - The freelancers smart contract dapp demo](https://medium.com/coinmonks/the-freelancers-smart-contract-dapp-demo-6f5b23a82bfa)
-29. [medium.com/textileio - Build a decentralized chat app with knockout and ipfs](https://medium.com/textileio/build-a-decentralized-chat-app-with-knockout-and-ipfs-fccf11e8ce7b)
-30. [instructables.com - How to Implement Facebook Social Login](https://www.instructables.com/How-to-Implement-Facebook-Social-Login/)
-31. [github.com/AztecProtocol - Loan dapp starter kit](https://github.com/AztecProtocol/loan-dapp-starter-kit)
+14. [hummingbot.io - Defi Arbitrage](https://hummingbot.io/)
+15. [extropy-io.medium.com - Coding a defi arbitrage bot](https://extropy-io.medium.com/coding-a-defi-arbitrage-bot-45e550d85089)
+16. [social.msdn.microsoft.com - Programming blockchain smart contracts with C on the Neo blockchain](https://social.msdn.microsoft.com/Forums/en-US/4bf3e42b-4701-488f-9ec4-92d7caa47d87/programming-blockchain-smart-contracts-with-c-on-the-neo-blockchain?forum=csharpgeneral)
+17. [medium.com/coinmonks - A net developers workflow for creating and calling ethereum smart contracts](https://medium.com/coinmonks/a-net-developers-workflow-for-creating-and-calling-ethereum-smart-contracts-44714f191db2)
+18. [c-sharpcorner.com - Getting started with smart contracts in c sharp](https://www.c-sharpcorner.com/article/getting-started-with-smart-contracts-in-c-sharp/)
+19. [koukia.ca - Deploy Ethereum smart contracts using C and Visual Studio](https://koukia.ca/deploy-ethereum-smart-contracts-using-c-and-visualstudio-5be188ae928c)
+20. [medium.com/compound-finance - Setting up an Ethereum development environment](https://medium.com/compound-finance/setting-up-an-ethereum-development-environment-7c387664c5fe)
+21. [medium.com/interfacing-with-a-blockchain - How to set up your Ethereum development environment for pc](https://medium.com/interfacing-with-a-blockchain/how-to-set-up-your-ethereum-development-environment-for-pc-f6caf6eb8017)
+22. [medium.com/edgefund - Ethereum development on Windows part 1](https://medium.com/edgefund/ethereum-development-on-windows-part-1-da260f6a6c06)
+23. [auth0.com - An introduction to Ethereum and smart contracts part 3](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-3/)
+24. [medium.com/@saturnial - Build your first dapp in 5 minutes part ii](https://medium.com/@saturnial/build-your-first-dapp-in-5-minutes-part-ii-d413f44facf1)
+25. [blog.datafund.net - Chattie or how to build a decentralised chat app in 10 minutes](https://blog.datafund.net/chattie-or-how-to-build-a-decentralised-chat-app-in-10-minutes-72ba816b88)
+26. [github.com/ethereum - Meteor dapp whisper chat client](https://github.com/ethereum/meteor-dapp-whisper-chat-client)
+27. [medium.com/coinmonks - The freelancers smart contract dapp demo](https://medium.com/coinmonks/the-freelancers-smart-contract-dapp-demo-6f5b23a82bfa)
+28. [medium.com/textileio - Build a decentralized chat app with knockout and ipfs](https://medium.com/textileio/build-a-decentralized-chat-app-with-knockout-and-ipfs-fccf11e8ce7b)
+29. [instructables.com - How to Implement Facebook Social Login](https://www.instructables.com/How-to-Implement-Facebook-Social-Login/)
+30. [github.com/AztecProtocol - Loan dapp starter kit](https://github.com/AztecProtocol/loan-dapp-starter-kit)
+31. [Getting started with Twitter Tip Bot Backend](https://github.com/bandprotocol/simple-twitter-tip-bot/tree/main/backend)
 32. [learntodroid.com - How to create a simple alarm clock app in Android](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
 
 ## Hackathon / Demos:
@@ -259,6 +264,8 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
  - [thealexfreeman.medium - How to create a DAO using Aragon - free](https://thealexfreeman.medium.com/how-to-create-a-dao-using-aragon-free-87989b7dc191)
  - [github.com/aragon/ - Your First Aragon app](https://github.com/aragon/your-first-aragon-app/pull/2/files)
  - [help.aragon.org - creating a new DAO from template](https://help.aragon.org/article/94-creating-an-new-dao-from-template)
+ - https://github.com/aragon/connect/tree/master/examples/nodejs
+ - https://github.com/aragon/connect/blob/master/examples/list-votes-cli/src/index.ts
 
 ## CordaR3
  - [CordaR3](https://docs.r3.com/en/platform/corda/5.0-dev-preview-2/getting-started/debugging-against-local-corda/debugging-against-local-corda.html)

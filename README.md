@@ -296,6 +296,7 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 - https://openai.com/dall-e-2/
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)
 - https://github.com/dexlab-io/dexpay-pos
+- https://iex.ec/
 - https://earthrewards.net/
 - https://www.ovr.ai/
 - https://wrapeth.com/

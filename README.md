@@ -82,7 +82,6 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ## Public good projects:
 - [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
-- [ethatl.com - Public good panel](https://ethatl.com/public-good-panel/)
 
 ## Jump right in guide:
 1. [Build web3 games + apps with ease](https://medium.com/0xsequence/build-web3-games-apps-with-ease-30417025845f)

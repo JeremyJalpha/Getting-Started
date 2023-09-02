@@ -51,11 +51,9 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 1. https://www.appypie.com/
 2. https://www.builder.ai/
 
-### UI Libraries/Frameworks:
-1. [ionicblocks.com](https://ionicblocks.com)
-2. [material.angular.io](https://material.angular.io/)
-3. [StencilPress](https://github.com/MadnessLabs/StencilPress)
-4. [StencilJS](https://github.com/mappmechanic/awesome-stenciljs)
+### Design Tools:
+1. [Figma](https://www.figma.com/)
+2. [Sketch](https://www.sketch.com/)
 
 ### Website Builders / pre-built components:
 1. [FlutterFlow](https://flutterflow.io/), [Example - Video](https://www.youtube.com/watch?v=22fuYHe0ZZU)
@@ -64,12 +62,23 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 4. [Elementor](https://elementor.com/)
 5. [shuffle.dev](https://shuffle.dev/)
 
+### UI Libraries/Frameworks:
+1. [ionicblocks.com](https://ionicblocks.com)
+2. [material.angular.io](https://material.angular.io/)
+3. [StencilPress](https://github.com/MadnessLabs/StencilPress)
+4. [StencilJS](https://github.com/mappmechanic/awesome-stenciljs)
+
 ### Online Code editor:
 1. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
 
-### Design Tools:
-1. [Figma](https://www.figma.com/)
-2. [Sketch](https://www.sketch.com/)
+## Hosting / Sandboxes:
+1. [Glitch](https://www.glitch.com/)
+2. [Heroku](https://www.heroku.com/)
+3. [Plunker](https://www.plunker.com/)
+4. [StackBlitz](https://www.stackblitz.com/)
+
+## Connectors / Pipes / APIs
+1. [zapier](https://www.zapier.com/)
 
 ## People to follow:
 @austingriffith, @woonomic, @coinbureau, @maxedapps, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions

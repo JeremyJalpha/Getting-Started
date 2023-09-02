@@ -25,6 +25,13 @@ This list is not financial advice please do your own research.
 13. [Bitcoin.stackexchange.com - Why is mining necessary for the bitcoin network system](https://bitcoin.stackexchange.com/questions/10343/why-is-mining-necessary-for-the-bitcoin-network-system)
 14. [Reddit.com - Why is there a need for fee pressure if miners](https://www.reddit.com/r/Bitcoin/comments/3f6rvp/why_is_there_a_need_for_fee_pressure_if_miners/)
 
+## Jump right in guide:
+1. [Build web3 games + apps with ease](https://medium.com/0xsequence/build-web3-games-apps-with-ease-30417025845f)
+2. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
+3. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
+4. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
+5. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
+
 ---
 ```
 Top of my learning List:
@@ -91,13 +98,6 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ## Public good projects:
 - [Gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
-
-## Jump right in guide:
-1. [Build web3 games + apps with ease](https://medium.com/0xsequence/build-web3-games-apps-with-ease-30417025845f)
-2. [Follow scaffold.eth Tut](https://github.com/scaffold-eth/scaffold-eth)
-3. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
-4. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
-5. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
 
 ## Internet Computer Protocol:
 1. [Creating a project - Creating a project from a template](https://internetcomputer.org/docs/current/tutorials/create_your_first_app/creating-project)
@@ -336,20 +336,21 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 - https://www.fairphone.com/en/
 
 ## Reading list:
+### 1
 - https://news.bitcoin.com/carbon-credit-token-mco2-is-now-listed-on-gemini-learn-about-the-green-asset-set-to-save-the-planet/
 - https://news.bitcoin.com/iexec-launches-oracle-factory-allowing-anyone-to-create-custom-oracles-in-minutes/
 - https://news.bitcoin.com/ovr-land-map-the-biggest-detailed-3d-map-of-the-real-world-with-nfts/
-
+### 2
 - https://defiprime.com/defi-yield-farming
 - https://blockgeeks.com/guides/what-is-hashing/
 - https://medium.com/coinmonks/using-nfts-ethereum-and-aws-to-re-define-the-receivables-market-3c3a3d7e74f
 - https://blog.goodaudience.com/burner-wallets-the-average-users-solution-to-purchasing-coffee-or-beer-with-crypto-c5863123ceac
-
+### 3
 - https://medium.com/mattr-global/the-state-of-identity-on-the-web-cffc392bc7ea
 - https://www.microsoft.com/en-ww/security/business/identity-access-management/decentralized-identity-blockchain
 - https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-the-network/ba-p/1441552
 - https://forum.cardano.org/t/one-identity-to-rule-them-all-managing-digital-identities-using-blockchain/40289
-
+### 4
 - https://en.wikipedia.org/wiki/Digital_physics
 
 ## Real estate:

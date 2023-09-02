@@ -48,8 +48,8 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ## Other amazing tools:
 ### No Codes:
-1. https://www.appypie.com/
-2. https://www.builder.ai/
+1. [Appypie](https://www.appypie.com/)
+2. [Builder](https://www.builder.ai/)
 
 ### Design Tools:
 1. [Figma](https://www.figma.com/)
@@ -57,19 +57,19 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ### Website Builders / pre-built components:
 1. [FlutterFlow](https://flutterflow.io/), [Example - Video](https://www.youtube.com/watch?v=22fuYHe0ZZU)
-2. [bootstrapstudio.io](https://bootstrapstudio.io/)
+2. [Bootstrapstudio.io](https://bootstrapstudio.io/)
 3. [Webflow](https://webflow.com/)
 4. [Elementor](https://elementor.com/)
-5. [shuffle.dev](https://shuffle.dev/)
+5. [Shuffle.dev](https://shuffle.dev/)
 
 ### UI Libraries/Frameworks:
-1. [ionicblocks.com](https://ionicblocks.com)
-2. [material.angular.io](https://material.angular.io/)
+1. [Ionicblocks.com](https://ionicblocks.com)
+2. [Material.angular.io](https://material.angular.io/)
 3. [StencilPress](https://github.com/MadnessLabs/StencilPress)
 4. [StencilJS](https://github.com/mappmechanic/awesome-stenciljs)
 
 ### Online Code editor:
-1. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
+1. [Codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
 
 ### Hosting / Sandboxes:
 1. [Glitch](https://www.glitch.com/)
@@ -78,7 +78,7 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 4. [StackBlitz](https://www.stackblitz.com/)
 
 ### Connectors / Pipes / APIs
-1. [zapier](https://www.zapier.com/)
+1. [Zapier](https://www.zapier.com/)
 
 ## People to follow:
 @austingriffith, @woonomic, @coinbureau, @maxedapps, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions
@@ -90,7 +90,7 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 - [Eric Arsenault - Voting options in DAOs](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
 
 ## Public good projects:
-- [gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
+- [Gitcoin.co/blog - Seeking a new kind of public good](https://gitcoin.co/blog/seeking-a-new-kind-of-public-good/)
 
 ## Jump right in guide:
 1. [Build web3 games + apps with ease](https://medium.com/0xsequence/build-web3-games-apps-with-ease-30417025845f)
@@ -180,15 +180,14 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 10. [Push Notifications using Angular and Firebase Cloud Messaging | The Blueflame Labs](https://www.youtube.com/watch?v=4JriJgRF3No)
 11. [How to prepare your Ionic PWA to receive push notifications](https://www.youtube.com/watch?v=wv7qhZv_sX4)
 12. [Building a web application with #Angular and #Firebase](https://www.youtube.com/watch?v=nh9OMi-JY5s)
-13. https://medium.com/@jishnusaha89/firebase-cloud-messaging-push-notifications-with-angular-1fb7f173bfba
-14. https://www.positronx.io/ionic-firebase-fcm-push-notification-tutorial-with-example/
-15. https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/
-16. https://issuu.com/theblueflames/docs/how_to_use_push_notifications_using_angular_and_fi
-17. https://www.theblueflamelabs.com/how-to-use-push-notifications-using-angular-and-firebase-cloud-messaging/
-18. https://www.thisdot.co/blog/pwa-push-notifications-with-firebase-cloud-messaging-pt1
-19. https://blog.angular-university.io/angular-push-notifications/
-20. https://www.section.io/engineering-education/fcm-with-spring-and-angular/
-21. [Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
+13. [Medium.com - jishnusaha89 - Firebase Cloud messaging & push notifications with Angular](https://medium.com/@jishnusaha89/firebase-cloud-messaging-push-notifications-with-angular-1fb7f173bfba)
+14. [Positronix.io - Ionic Firebase FCM Push notifications tutorial with example](https://www.positronx.io/ionic-firebase-fcm-push-notification-tutorial-with-example/)
+15. [ITWonders-web.com - Push notification using Firebase demo tutorial](https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/)
+16. [TheBlueFlameLabs.com - How to use push Notifications using Angular and Firebase Cloud Messaging](https://www.theblueflamelabs.com/how-to-use-push-notifications-using-angular-and-firebase-cloud-messaging/)
+17. [Thisdot.co - PWA Push Notifications with Firebase Cloud Messaging Pt1](https://www.thisdot.co/blog/pwa-push-notifications-with-firebase-cloud-messaging-pt1)
+18. [Angular-University.io - Angular Push Notifications](https://blog.angular-university.io/angular-push-notifications/)
+19. [Section.io - F.C.M with Spring and Angular](https://www.section.io/engineering-education/fcm-with-spring-and-angular/)
+20. [Angular.io - Shopping app ex with StackBlitz - Browser based IDE](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html)
 
 ## ReactNative
 1. [Installing React Native Firebase Core (Part 3) | Push Notifications with React Native Firebase](https://www.youtube.com/watch?v=xgc2NLIHr14)
@@ -274,11 +273,11 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 
 ## Aragon:
  - [Launching Decentralized Organizations Using Aragon at #BUIDLweek #ETHDenver](https://www.youtube.com/watch?v=mV4Zrl2yY2M)
- - [thealexfreeman.medium - How to create a DAO using Aragon - free](https://thealexfreeman.medium.com/how-to-create-a-dao-using-aragon-free-87989b7dc191)
- - [github.com/aragon/ - Your First Aragon app](https://github.com/aragon/your-first-aragon-app/pull/2/files)
- - [help.aragon.org - creating a new DAO from template](https://help.aragon.org/article/94-creating-an-new-dao-from-template)
- - https://github.com/aragon/connect/tree/master/examples/nodejs
- - https://github.com/aragon/connect/blob/master/examples/list-votes-cli/src/index.ts
+ - [Thealexfreeman.medium - How to create a DAO using Aragon - free](https://thealexfreeman.medium.com/how-to-create-a-dao-using-aragon-free-87989b7dc191)
+ - [Github.com/aragon/ - Your First Aragon app](https://github.com/aragon/your-first-aragon-app/pull/2/files)
+ - [Help.aragon.org - creating a new DAO from template](https://help.aragon.org/article/94-creating-an-new-dao-from-template)
+ - [Aragon - Examples](https://github.com/aragon/connect/tree/master/examples/nodejs)
+ - [Aragon - List Votes using CLI](https://github.com/aragon/connect/blob/master/examples/list-votes-cli/src/index.ts)
 
 ## CordaR3
  - [CordaR3](https://docs.r3.com/en/platform/corda/5.0-dev-preview-2/getting-started/debugging-against-local-corda/debugging-against-local-corda.html)

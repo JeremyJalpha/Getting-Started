@@ -71,13 +71,13 @@ Solidity (Ethereum), Scala, Rust, Go, Lua
 ### Online Code editor:
 1. [codesandbox.io/s/stencil-web-component-9gkne](https://codesandbox.io/s/stencil-web-component-9gkne)
 
-## Hosting / Sandboxes:
+### Hosting / Sandboxes:
 1. [Glitch](https://www.glitch.com/)
 2. [Heroku](https://www.heroku.com/)
 3. [Plunker](https://www.plunker.com/)
 4. [StackBlitz](https://www.stackblitz.com/)
 
-## Connectors / Pipes / APIs
+### Connectors / Pipes / APIs
 1. [zapier](https://www.zapier.com/)
 
 ## People to follow:

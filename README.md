@@ -36,20 +36,24 @@ This list is not financial advice please do your own research.
 ```
 Top of my learning List:
 ------------------------
-Decentralized Tools:
-Scaffold.eth, Hard Hat, Internet Computer Protocol, 1hive & Celeste
+Laser focused on:
+Flutter, Go, Solidity
 
-Development Frameworks/Libraries:
-Gatsby, Flutter, Ionic, Blazor
+Decentralized Tools:
+Scaffold.eth, Hard Hat, 1hive & Celeste
 
 Programming Languages:
-Motoko (ICP), TypeScript, Kotlin
+TypeScript, JavaScript, Kotlin
+
+Development Frameworks/Libraries:
+Gatsby, Ionic, Blazor
 
 Other / General:
-Elrond, Polygon
 Angular, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
-Solidity (Ethereum), Scala, Rust, Go, Lua
+Scala, Rust, Lua, Motoko (ICP)
+-
+Elrond, Polygon, Internet Computer Protocol
 ```
 ---
 

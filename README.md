@@ -51,7 +51,7 @@ Gatsby, Ionic, Blazor
 Other / General:
 Angular, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
-Scala, Rust, Lua, Motoko (ICP)
+Rust, Scala, Lua, Motoko (ICP)
 -
 Elrond, Polygon, Internet Computer Protocol
 ```

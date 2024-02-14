@@ -395,9 +395,13 @@ Elrond, Polygon, Internet Computer Protocol
 
 ## Trusted Execution Environment
 ### 1 - General:
-1. [Android security maximized by Samsung KNOX](https://kp-cdn.samsungknox.com/2f2fff7938aaf9a7dcf7a9e7ccd0446f.pdf)
-2. [Qualcomm-SPU-Security-Policy-V1.3](https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3549.pdf)
-3. [FIPS 140-2 - Wikipedia](https://en.wikipedia.org/wiki/FIPS_140-2)
-4. [Snapdragon 820 first to receive hardware security certification | Qualcomm](https://www.qualcomm.com/news/onq/2016/06/snapdragon-820-first-receive-hardware-security-certification)
-5. [Secure Processing Unit on the Qualcomm SDA845 SoC | Lantronix](https://www.lantronix.com/blog/secure-processing-unit-on-the-qualcomm-sda845-soc/)
-6. [Trusty TEE | Android Open Source Project](https://source.android.com/docs/security/features/trusty)
+1. [wikipedia - TTE](https://en.wikipedia.org/wiki/Trusted_execution_environment)
+2. [fairphone - security](https://forum.fairphone.com/t/fairphone-security/83098/8)
+3. [grapheneos](https://grapheneos.org/features)
+4. [Qualcomm Trusted Execution Environment](https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp4078.pdf)
+5. [Android security maximized by Samsung KNOX](https://kp-cdn.samsungknox.com/2f2fff7938aaf9a7dcf7a9e7ccd0446f.pdf)
+6. [Qualcomm-SPU-Security-Policy-V1.3](https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3549.pdf)
+7. [FIPS 140-2 - Wikipedia](https://en.wikipedia.org/wiki/FIPS_140-2)
+8. [Snapdragon 820 first to receive hardware security certification | Qualcomm](https://www.qualcomm.com/news/onq/2016/06/snapdragon-820-first-receive-hardware-security-certification)
+9. [Secure Processing Unit on the Qualcomm SDA845 SoC | Lantronix](https://www.lantronix.com/blog/secure-processing-unit-on-the-qualcomm-sda845-soc/)
+10. [Trusty TEE | Android Open Source Project](https://source.android.com/docs/security/features/trusty)

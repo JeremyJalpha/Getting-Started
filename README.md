@@ -245,6 +245,8 @@ Elrond, Polygon, Internet Computer Protocol
 7. [WhatsApp Business Encryption - Cloud API - Documentation - Meta for Developers](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/whatsapp-business-encryption#example)
 8. [developers.facebook.com/blog/post/2022/12/05/auth-tokens/](https://developers.facebook.com/blog/post/2022/12/05/auth-tokens/)
 9. [Implementing Webhooks From The WhatsApp Business Platform](https://business.whatsapp.com/blog/how-to-use-webhooks-from-whatsapp-business-api)
+### 2 - Calculate HMAC
+1. [facebook webhook signature calculation (C#)](https://stackoverflow.com/questions/38353831/facebook-webhook-signature-calculation-c)
 
 ## General how tos:
 ### 1 - Examples / Speed builds:

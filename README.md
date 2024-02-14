@@ -303,6 +303,7 @@ Elrond, Polygon, Internet Computer Protocol
 - https://cryptopotato.com/you-can-now-use-crypto-to-purchase-nasdaq-tokenized-stocks/
 
 ## Watch this space:
+- https://www.helium.com/ | Helium – Introducing The People's Network
 - https://1hive.org/ & https://1hive.gitbook.io/celeste/
 - https://openai.com/dall-e-2/
 - [Ethereum Push Notification Service](https://whitepaper.epns.io/protocol-specs-section/specifications)

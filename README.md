@@ -84,18 +84,16 @@ Elrond, Polygon, Internet Computer Protocol
 
 ### Hosting / Sandboxes:
 1. [Glitch](https://www.glitch.com/)
-2. [Heroku](https://www.heroku.com/)
-3. [Plunker](https://www.plunker.com/)
-4. [StackBlitz](https://www.stackblitz.com/)
+2. [Fastly recomends RisingCloud](https://risingcloud.com/docs/go), [Example](https://github.com/Rising-Cloud-Examples/go-web-service)
+4. [Heroku](https://www.heroku.com/)
+5. [Plunker](https://www.plunker.com/)
+6. [StackBlitz](https://www.stackblitz.com/)
 
 ### Connectors / Pipes / APIs
 1. [Zapier](https://www.zapier.com/)
-2. [Glitch](https://glitch.com/)
-3. [Fastly recomends RisingCloud](https://risingcloud.com/docs/go)
-4. [RisingCloud Example](https://github.com/Rising-Cloud-Examples/go-web-service)
 
 ### Arb online tools
-1. https://www.freeformatter.com/hmac-generator.html#before-output
+1. [HMAC Calculator](https://www.freeformatter.com/hmac-generator.html#before-output)
 
 ## People to follow:
 @austingriffith, @woonomic, @coinbureau, @maxedapps, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions

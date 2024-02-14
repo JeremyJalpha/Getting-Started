@@ -224,6 +224,18 @@ Elrond, Polygon, Internet Computer Protocol
 18. [buildspace - Dare to dream. Dare to build.](https://buildspace.so/)
 19. [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw)
 
+## Facebook Docs:
+### 1 - General:
+1. [developers.facebook.com](https://developers.facebook.com/docs/whatsapp/cloud-api/get-started)
+2. [Getting Started - Meta Webhooks](https://developers.facebook.com/docs/graph-api/webhooks/getting-started#verification-requests)
+3. [Sample Apps - Meta Webhooks - Documentation - Meta for Developers](https://developers.facebook.com/docs/graph-api/webhooks/sample-apps)
+4. [Meta Webhooks - Documentation - Meta for Developers](https://developers.facebook.com/docs/graph-api/webhooks/)
+5. [Webhooks - Messenger Platform - Documentation - Meta for Developers](https://developers.facebook.com/docs/messenger-platform/webhooks/)
+6. [Confused about Validating Payloads - Developer Community Forum - Meta for Developers](https://developers.facebook.com/community/threads/463364209257633/)
+7. [WhatsApp Business Encryption - Cloud API - Documentation - Meta for Developers](https://developers.facebook.com/docs/whatsapp/cloud-api/reference/whatsapp-business-encryption#example)
+8. [developers.facebook.com/blog/post/2022/12/05/auth-tokens/](https://developers.facebook.com/blog/post/2022/12/05/auth-tokens/)
+9. [Implementing Webhooks From The WhatsApp Business Platform](https://business.whatsapp.com/blog/how-to-use-webhooks-from-whatsapp-business-api)
+
 ## General how tos:
 ### 1 - Examples / Speed builds:
 1. [Uber Clone 1](https://github.com/devrdias/react-native-clone-uber)

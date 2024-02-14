@@ -380,3 +380,12 @@ Elrond, Polygon, Internet Computer Protocol
 - https://alphapoint.com/navigating-the-3-phases-of-real-estate-tokenization/
 - https://realt.co/introducing-realt-tokenizing-real-estate-on-ethereum/
 - http://blog.realestate.cornell.edu/2019/04/30/tokenizing-real-estate-creating-new-investing-and-financing-channels-through-blockchain/
+
+## Trusted Execution Environment
+### 1 - General:
+1. [Android security maximized by Samsung KNOX](https://kp-cdn.samsungknox.com/2f2fff7938aaf9a7dcf7a9e7ccd0446f.pdf)
+2. [Qualcomm-SPU-Security-Policy-V1.3](https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3549.pdf)
+3. [FIPS 140-2 - Wikipedia](https://en.wikipedia.org/wiki/FIPS_140-2)
+4. [Snapdragon 820 first to receive hardware security certification | Qualcomm](https://www.qualcomm.com/news/onq/2016/06/snapdragon-820-first-receive-hardware-security-certification)
+5. [Secure Processing Unit on the Qualcomm SDA845 SoC | Lantronix](https://www.lantronix.com/blog/secure-processing-unit-on-the-qualcomm-sda845-soc/)
+6. [Trusty TEE | Android Open Source Project](https://source.android.com/docs/security/features/trusty)

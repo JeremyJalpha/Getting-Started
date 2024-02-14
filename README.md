@@ -90,6 +90,12 @@ Elrond, Polygon, Internet Computer Protocol
 
 ### Connectors / Pipes / APIs
 1. [Zapier](https://www.zapier.com/)
+2. [Glitch](https://glitch.com/)
+3. [Fastly recomends RisingCloud](https://risingcloud.com/docs/go)
+4. [RisingCloud Example](https://github.com/Rising-Cloud-Examples/go-web-service)
+
+### Arb online tools
+1. https://www.freeformatter.com/hmac-generator.html#before-output
 
 ## People to follow:
 @austingriffith, @woonomic, @coinbureau, @maxedapps, @jeremyalpha, @wildcards_world @TheECOcoin, @Open__Earth, @proofofimpact, @my_emissions

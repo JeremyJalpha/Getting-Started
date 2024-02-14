@@ -58,6 +58,12 @@ Elrond, Polygon, Internet Computer Protocol
 ---
 
 ## Other amazing tools:
+### Cloud Databases
+1. [CockroachDB](https://www.cockroachlabs.com/)
+
+### WhatsApp to Mattermost integration
+1. [Restack](https://www.restack.io/docs/mattermost-knowledge-mattermost-whatsapp-integration)
+
 ### No Codes:
 1. [Appypie](https://www.appypie.com/)
 2. [Builder](https://www.builder.ai/)

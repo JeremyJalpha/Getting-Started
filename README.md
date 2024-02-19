@@ -43,7 +43,7 @@ Decentralized Tools:
 Scaffold.eth, Hard Hat, 1hive & Celeste
 
 Programming Languages:
-TypeScript, JavaScript, Kotlin
+TypeScript, Kotlin
 
 Development Frameworks/Libraries:
 Gatsby, Ionic, Blazor
@@ -51,7 +51,7 @@ Gatsby, Ionic, Blazor
 Other / General:
 Angular, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
-Rust, Scala, Lua, Motoko (ICP)
+Rust, Scala, Lua, Motoko (ICP),...JavaScript
 -
 Elrond, Polygon, Internet Computer Protocol
 ```

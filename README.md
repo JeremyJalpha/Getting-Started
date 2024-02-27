@@ -32,6 +32,9 @@ This list is not financial advice please do your own research.
 4. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
 5. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
 
+## Blockchain Dev EBooks
+1. [miguelmota/ethereum-development-with-go-book: 📖 A little guide book on Ethereum Development with Go (golang)](https://github.com/miguelmota/ethereum-development-with-go-book)
+
 ---
 ```
 Top of my learning List:

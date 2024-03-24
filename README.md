@@ -31,6 +31,8 @@ This list is not financial advice please do your own research.
 3. [Install buidler?](https://medium.com/nomic-foundation-blog/how-to-get-started-with-buidler-68beb6b9bb04)
 4. [Video - Yarn run watch](https://www.youtube.com/watch?v=ShJZf5lsXiM)
 5. [Video - Tests and console.log](https://www.youtube.com/watch?v=5V5vDJhafwk)
+6. [GitHub - Ethereum Development with Go book](https://github.com/miguelmota/ethereum-development-with-go-book)
+
 
 ## Blockchain Dev EBooks
 1. [miguelmota/ethereum-development-with-go-book: 📖 A little guide book on Ethereum Development with Go (golang)](https://github.com/miguelmota/ethereum-development-with-go-book)

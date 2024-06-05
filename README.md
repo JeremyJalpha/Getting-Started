@@ -102,6 +102,8 @@ Elrond, Polygon, Internet Computer Protocol
 
 ### Connectors / Pipes / APIs
 1. [Zapier](https://www.zapier.com/)
+2. [make](https://www.make.com/)
+3. [buildship](https://buildship.com/)
 
 ### Arb online tools
 1. [HMAC Calculator](https://www.freeformatter.com/hmac-generator.html#before-output)

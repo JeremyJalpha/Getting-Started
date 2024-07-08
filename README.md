@@ -64,7 +64,7 @@ Elrond, Polygon, Internet Computer Protocol
 
 ## Other amazing tools:
 ### Github is centralized:
-1. [Radicle sovereign code](https://radicle.xyz/)
+1. [Radicle - sovereign code](https://radicle.xyz/)
 
 ### Cloud Databases
 1. [CockroachDB](https://www.cockroachlabs.com/)

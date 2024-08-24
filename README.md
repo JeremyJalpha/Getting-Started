@@ -65,7 +65,6 @@ Elrond, Polygon, Internet Computer Protocol
 ## Other amazing tools:
 ### Github is centralized:
 1. [Radicle - sovereign code](https://radicle.xyz/)
-2. [Silex](https://www.silex.me/)
 3. [PenPot](https://penpot.app/)
 
 ### Cloud Databases

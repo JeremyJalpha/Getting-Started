@@ -103,7 +103,8 @@ Elrond, Polygon, Internet Computer Protocol
 2. [Fastly recomends RisingCloud](https://risingcloud.com/docs/go), [Example](https://github.com/Rising-Cloud-Examples/go-web-service)
 4. [Heroku](https://www.heroku.com/)
 5. [Plunker](https://www.plunker.com/)
-6. [StackBlitz](https://www.stackblitz.com/)
+6. [htmlfiddle](https://htmlfiddle.net/)
+7. [StackBlitz](https://www.stackblitz.com/)
 
 ### Connectors / Pipes / APIs
 1. [Zapier](https://www.zapier.com/)

@@ -42,21 +42,21 @@ This list is not financial advice please do your own research.
 Top of my learning List:
 ------------------------
 Laser focused on:
-Flutter, Go, Solidity
+.Net MAUI, Go, Solidity
 
 Decentralized Tools:
 Scaffold.eth, Hard Hat, 1hive & Celeste
 
 Programming Languages:
-TypeScript, Kotlin
+TypeScript, Kotlin, Rust
 
 Development Frameworks/Libraries:
 Gatsby, Ionic, Blazor
 
 Other / General:
-Angular, Svelte, ReactNative + Redux + Expo
+Angular, Flutter, Svelte, ReactNative + Redux + Expo
 Nest.js, Node.js, Next.js
-Rust, Scala, Lua, Motoko (ICP),...JavaScript
+Scala, Lua, Motoko (ICP),...JavaScript
 -
 Elrond, Polygon, Internet Computer Protocol
 ```

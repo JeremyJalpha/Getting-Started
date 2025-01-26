@@ -139,6 +139,7 @@ Elrond, Polygon, Internet Computer Protocol
 6. [Scaffold.Eth Simple NFT Example](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)
 7. [Scaffold.Eth - Buyer Mints](https://github.com/austintgriffith/scaffold-eth/tree/buyer-mints-nft)
 8. [Signator.io](https://twitter.com/austingriffith/status/1465734308782477315)
+9. [Nifty Ink](https://nifty.ink/create)
 
 ## Moralis:
 1. [Full Stack Web3 Dapp - Course for Beginners - Zapper clone](https://www.youtube.com/watch?v=C9yA8LcJsIY)
@@ -371,7 +372,6 @@ Elrond, Polygon, Internet Computer Protocol
 - https://onramper.com/
 - https://trustwallet.com/
 - https://rarible.com/
-- https://nifty.ink/create
 - https://www.elliptic.co/customers/law-enforcement
 - https://startupstash.com/blockchain-analysis-tools/
 - https://www.hackerrank.com/

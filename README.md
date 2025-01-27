@@ -45,10 +45,10 @@ Primarily focused on:
 .Net MAUI, Blazor
 
 Secondarily focussed on:
-Go, Solidity (Scaffold.eth, Hard Hat, 1hive & Celeste), Angular, Flutter
+Go, Angular, Solidity (Scaffold.eth, Hard Hat, 1hive & Celeste)
 
 Thirdly Focussed on:
-TypeScript, Rust, Kotlin
+TypeScript, Rust, Kotlin, Flutter
 
 ----------------------
 General learning list:
@@ -81,6 +81,7 @@ Elrond, Polygon, Internet Computer Protocol
 1. [Toddle](https://www.toddle.dev/)
 2. [Appypie](https://www.appypie.com/)
 3. [Builder](https://www.builder.ai/)
+4. [Drag and drop page building for Angular](https://www.builder.io/)
 
 ### Design Tools:
 1. [Figma](https://www.figma.com/)

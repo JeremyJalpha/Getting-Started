@@ -50,9 +50,9 @@ Go, Solidity (Scaffold.eth, Hard Hat, 1hive & Celeste), Angular, Flutter
 Thirdly Focussed on:
 TypeScript, Rust, Kotlin
 
-
-Other / General learning list:
-------------------------------
+----------------------
+General learning list:
+----------------------
 
 Development Frameworks/Libraries:
 Gatsby, Ionic

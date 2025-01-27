@@ -47,7 +47,7 @@ Primarily focused on:
 Secondarily focussed on:
 Go, Angular, Solidity (Scaffold.eth, Hard Hat, 1hive & Celeste)
 
-Thirdly Focussed on:
+Thirdly focussed on:
 TypeScript, Rust, Kotlin, Flutter
 
 ----------------------
